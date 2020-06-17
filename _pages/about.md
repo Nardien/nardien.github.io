@@ -16,7 +16,7 @@ My research interest includes:
 
 ## Education
 - **Korea Advanced Institute of Science and Technology** \\
-  <font size="3">Mar. 2015 - Feb. 2020</font> \\
+  <font size="3">Mar. 2015 - Feb. 2020</font>
   B.S. in Electrical Engineering and Computer Science
 
 ## Conference Publications
@@ -32,5 +32,5 @@ Moonsu Han\*, **Minki Kang\***, Hyunwoo Jung, Sung Ju Hwang \\
   Exchange Student @ Electical and Computer Engineering Department
 
 - **Kakao** \\
-  <font size="3">Jan. 2018 - Feb. 2018</font>\\
+  <font size="3">Jan. 2018 - Feb. 2018</font>
   Internship @ Context Department
