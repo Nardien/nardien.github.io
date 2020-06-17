@@ -27,10 +27,10 @@ Moonsu Han\*, **Minki Kang\***, Hyunwoo Jung, Sung Ju Hwang \\
 <span style="color:darkred">**ACL**</span> 2020
 
 ## Experiences
-- **Techinal University of Munich** \\
-  <font size="3">Apr. 2019 - Aug. 2019</font> \\
+- **Technial University of Munich** \\
+  <font size="3">Apr. 2019 - Aug. 2019</font>
   Exchange Student @ Electical and Computer Engineering Department
 
 - **Kakao** \\
-  <font size="3">Jan. 2018 - Feb. 2018</font> \\
+  <font size="3">Jan. 2018 - Feb. 2018</font>\\
   Internship @ Context Department
