@@ -21,7 +21,7 @@ My research interest includes:
 ## Conference Publications
 - <font size="4">Episodic Memory Reader: Learning What to Remember for Question Answering from Streaming Data</font>
 [[paper]](https://www.aclweb.org/anthology/P19-1434.pdf) \\
-Moonsu Han*, **Minki Kang***, Hyunwoo Jung, Sung Ju Hwang \\
+Moonsu Han\*, **Minki Kang\***, Hyunwoo Jung, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**ACL**</span> 2020
 
