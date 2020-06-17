@@ -24,7 +24,7 @@ My research interest includes:
 [[paper]](https://www.aclweb.org/anthology/P19-1434.pdf) \\
 Moonsu Han\*, **Minki Kang\***, Hyunwoo Jung, Sung Ju Hwang \\
 (\*: equal contribution) \\
-<span style="color:darkred">**ACL**</span> 2020
+<span style="color:darkred">**ACL**</span> 2019
 
 ## Experiences
 - **Technial University of Munich** \\
