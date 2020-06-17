@@ -15,7 +15,8 @@ My research interest includes:
 - Self-supervised Learning
 
 ## Education
-- Korea Advanced Institute of Science and Technology, South Korea, Mar. 2015 - Feb. 2020 \\
+- **Korea Advanced Institute of Science and Technology** \\
+  <font size="3">Mar. 2015 - Feb. 2020<\font> \\
   B.S. in Electrical Engineering and Computer Science
 
 ## Conference Publications
@@ -26,8 +27,10 @@ Moonsu Han\*, **Minki Kang\***, Hyunwoo Jung, Sung Ju Hwang \\
 <span style="color:darkred">**ACL**</span> 2020
 
 ## Experiences
-- Techinal University of Munich, Germany, Apr. 2019 - Aug. 2019 \\
+- **Techinal University of Munich** \\
+  <font size="3">Apr. 2019 - Aug. 2019<\font> \\
   Exchange Student @ Electical and Computer Engineering Department
 
-- Kakao, South Korea, Jan. 2018 - Feb. 2018 \\
+- **Kakao** \\
+  <font size="3">Jan. 2018 - Feb. 2018<\font> \\
   Internship @ Context Department
