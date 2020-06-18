@@ -17,7 +17,7 @@ My research interest includes:
 ## Education
 - **Korea Advanced Institute of Science and Technology** \\
   <font size="3">Mar. 2020 - Current</font>
-  M.S. in Electrical Engineering and Computer Science
+  M.S. in Graduate School of Artificial Intelligence
 
 - **Korea Advanced Institute of Science and Technology** \\
   <font size="3">Mar. 2015 - Feb. 2020</font>
