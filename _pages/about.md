@@ -24,6 +24,12 @@ My research interest includes:
   B.S. in Electrical Engineering and Computer Science
 
 ## Conference Publications
+- <font size="4">Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation</font>
+[[paper]](https://arxiv.org/abs/2010.02705) \\
+**Minki Kang\***, Moonsu Han\*, Sung Ju Hwang \\
+(\*: equal contribution) \\
+<span style="color:darkred">**EMNLP**</span> 2020
+
 - <font size="4">Episodic Memory Reader: Learning What to Remember for Question Answering from Streaming Data</font>
 [[paper]](https://www.aclweb.org/anthology/P19-1434.pdf) \\
 Moonsu Han\*, **Minki Kang\***, Hyunwoo Jung, Sung Ju Hwang \\
