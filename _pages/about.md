@@ -24,6 +24,12 @@ My research interest includes:
   B.S. in Electrical Engineering and Computer Science
 
 ## Conference Publications
+- <font size="4">Accurate Learning of Graph Representations with Graph Multiset Pooling</font>
+[[paper]](https://openreview.net/pdf?id=JHcqXGaqiGn) \\
+Jinheon Baek\*, **Minki Kang\***, Sung Ju Hwang \\
+(\*: equal contribution) \\
+<span style="color:darkred">**ICLR**</span> 2021
+
 - <font size="4">Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation</font>
 [[paper]](https://arxiv.org/abs/2010.02705) \\
 **Minki Kang\***, Moonsu Han\*, Sung Ju Hwang \\
