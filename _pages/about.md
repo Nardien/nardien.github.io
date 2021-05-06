@@ -25,7 +25,7 @@ My research interest includes:
 
 ## Conference Publications
 - <font size="4">Learning to Perturb Word Embeddings for Out-of-distribution QA</font>
-[[paper]] To appear \\
+[paper] To appear \\
 Seanie Lee\*, **Minki Kang\***, Juho Lee, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**ACL**</span> 2021
