@@ -28,7 +28,7 @@ My research interest includes:
 [[paper]] To appear \\
 Seanie Lee\*, **Minki Kang\***, Juho Lee, Sung Ju Hwang \\
 (\*: equal contribution) \\
-<span style="color:darkred">**ICLR**</span> 2021
+<span style="color:darkred">**ACL**</span> 2021
 
 - <font size="4">Accurate Learning of Graph Representations with Graph Multiset Pooling</font>
 [[paper]](https://openreview.net/pdf?id=JHcqXGaqiGn) \\
