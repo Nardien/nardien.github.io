@@ -7,16 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Master student at [Machine Learning and Artificial Intelligence (MLAI) lab](https://www.mlai-kaist.com/) in KAIST, under the supervision of Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/).
+I am a Ph.d. student at [Machine Learning and Artificial Intelligence (MLAI) lab](https://www.mlai-kaist.com/) in KAIST, under the supervision of Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/).
 
 My research interest includes:
 - Natural Language Understanding
-- Reinforcement Learning
 - Self-supervised Learning
+- Knowledge Graph
 
 ## Education
 - **Korea Advanced Institute of Science and Technology** \\
-  <font size="3">Mar. 2020 - Current</font>
+  <font size="3">Sep. 2021 - Current</font>
+  Ph.d. in Graduate School of Artificial Intelligence
+
+- **Korea Advanced Institute of Science and Technology** \\
+  <font size="3">Mar. 2020 - Aug. 2021</font>
   M.S. in Graduate School of Artificial Intelligence
 
 - **Korea Advanced Institute of Science and Technology** \\
