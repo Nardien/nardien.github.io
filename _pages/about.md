@@ -29,7 +29,7 @@ My research interest includes:
 
 ## Conference Publications
 - <font size="4">Learning to Perturb Word Embeddings for Out-of-distribution QA</font>
-[[paper]](https://arxiv.org/abs/2105.02692) To appear \\
+[[paper]](https://aclanthology.org/2021.acl-long.434.pdf) \\
 Seanie Lee\*, **Minki Kang\***, Juho Lee, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**ACL**</span> 2021
@@ -41,7 +41,7 @@ Jinheon Baek\*, **Minki Kang\***, Sung Ju Hwang \\
 <span style="color:darkred">**ICLR**</span> 2021
 
 - <font size="4">Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation</font>
-[[paper]](https://arxiv.org/abs/2010.02705) \\
+[[paper]](https://aclanthology.org/2020.emnlp-main.493.pdf) \\
 **Minki Kang\***, Moonsu Han\*, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**EMNLP**</span> 2020
