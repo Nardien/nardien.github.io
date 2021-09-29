@@ -28,6 +28,12 @@ My research interest includes:
   B.S. in Electrical Engineering and Computer Science
 
 ## Conference Publications
+- <font size="4">Edge Representation Learning with Hypergraphs</font>
+[[paper]](https://arxiv.org/pdf/2106.15845.pdf) \\
+Jaehyeong Jo\*, Jinheon Baek\∗, Seul Lee\∗, Dongki Kim, **Minki Kang**, Sung Ju Hwang
+(\*: equal contribution) \\
+<span style="color:darkred">**NeurIPS**</span> 2021
+
 - <font size="4">Learning to Perturb Word Embeddings for Out-of-distribution QA</font>
 [[paper]](https://aclanthology.org/2021.acl-long.434.pdf) \\
 Seanie Lee\*, **Minki Kang\***, Juho Lee, Sung Ju Hwang \\
