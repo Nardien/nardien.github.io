@@ -30,7 +30,7 @@ My research interest includes:
 ## Conference Publications
 - <font size="4">Edge Representation Learning with Hypergraphs</font>
 [[paper]](https://arxiv.org/pdf/2106.15845.pdf) \\
-Jaehyeong Jo\*, Jinheon Baek\∗, Seul Lee\∗, Dongki Kim, **Minki Kang**, Sung Ju Hwang
+Jaehyeong Jo\*, Jinheon Baek\*, Seul Lee\*, Dongki Kim, **Minki Kang**, Sung Ju Hwang
 (\*: equal contribution) \\
 <span style="color:darkred">**NeurIPS**</span> 2021
 
