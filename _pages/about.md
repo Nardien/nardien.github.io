@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <span style="color:darkred">**UPDATE**</span>
-During Mar. 2022 ~ Feb. 2025, I work as a research scientist at [AITRICS](https://www.aitrics.com/) as the alternative military service, working under the supervision of Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/).
-In South Korea, military service is mandatory. I plan to come back to academia after the end of the military service.
+During Mar. 2022 ~ Feb. 2025, I work as a research scientist at [AITRICS](https://www.aitrics.com/) as the alternative for mandatory military service, working under the supervision of Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/).
+I plan to come back to academia after the end of the military service.
 
 I am a Ph.d. student at [Machine Learning and Artificial Intelligence (MLAI) lab](https://www.mlai-kaist.com/) in KAIST, under the supervision of Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/).
 
