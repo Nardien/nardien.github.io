@@ -7,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<span style="color:darkred">**UPDATE**</span>
+During Mar. 2022 ~ Feb. 2025, I work as a reseach scientist at [AITRICS](https://www.aitrics.com/) as the alternative military service, working under the supervision of Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/).
+In South Korea, military service is mandatory. I plan to come back to academia after the end of the military service.
+
 I am a Ph.d. student at [Machine Learning and Artificial Intelligence (MLAI) lab](https://www.mlai-kaist.com/) in KAIST, under the supervision of Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/).
 
 My research interest includes:
@@ -16,7 +21,7 @@ My research interest includes:
 
 ## Education
 - **Korea Advanced Institute of Science and Technology** \\
-  <font size="3">Sep. 2021 - Current</font>
+  <font size="3">Sep. 2021 - (Paused due to Military Service)</font>
   Ph.d. in Graduate School of Artificial Intelligence
 
 - **Korea Advanced Institute of Science and Technology** \\
