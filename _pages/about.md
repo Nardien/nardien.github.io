@@ -33,6 +33,12 @@ My research interest includes:
   B.S. in Electrical Engineering and Computer Science
 
 ## Conference Publications
+- <font size="4">KALA: Knowledge-Augmented Language Model Adaptation</font>
+[paper] (To appear) \\
+**Minki Kang\***, Jinheon Baek\*, Sung Ju Hwang
+(\*: equal contribution) \\
+<span style="color:darkred">**NAACL**</span> 2022
+
 - <font size="4">Edge Representation Learning with Hypergraphs</font>
 [[paper]](https://arxiv.org/pdf/2106.15845.pdf) \\
 Jaehyeong Jo\*, Jinheon Baek\*, Seul Lee\*, Dongki Kim, **Minki Kang**, Sung Ju Hwang
