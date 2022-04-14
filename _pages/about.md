@@ -34,7 +34,7 @@ My research interest includes:
 
 ## Conference Publications
 - <font size="4">KALA: Knowledge-Augmented Language Model Adaptation</font>
-[paper] (To appear) \\
+[[paper]](https://openreview.net/pdf?id=qTNMTzkWhgT) \\
 **Minki Kang\***, Jinheon Baek\*, Sung Ju Hwang
 (\*: equal contribution) \\
 <span style="color:darkred">**NAACL**</span> 2022
