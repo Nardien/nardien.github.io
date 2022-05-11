@@ -15,8 +15,8 @@ I plan to come back to academia after the end of the military service.
 I am a Ph.d. student at [Machine Learning and Artificial Intelligence (MLAI) lab](https://www.mlai-kaist.com/) in KAIST, under the supervision of Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/).
 
 My research interest includes:
-- Low-resource Deep Learning (Domain Adaptation \& Generalization)
-- Natural Language Processing \& Understanding \& Generation
+- Low-resource Deep Learning (Domain Adaptation and Generalization)
+- Natural Language Processing and Understanding
 - Graph Representation Learning
 
 ## Education
