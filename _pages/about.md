@@ -33,37 +33,37 @@ My research interest includes:
   B.S. in Electrical Engineering and Computer Science
 
 ## Conference Publications
-- <font size="4">KALA: Knowledge-Augmented Language Model Adaptation</font>
+- <font size="4">**KALA: Knowledge-Augmented Language Model Adaptation**</font>
 [[paper]](https://openreview.net/pdf?id=qTNMTzkWhgT) \\
 **Minki Kang\***, Jinheon Baek\*, Sung Ju Hwang
 (\*: equal contribution) \\
 <span style="color:darkred">**NAACL**</span> 2022
 
-- <font size="4">Edge Representation Learning with Hypergraphs</font>
+- <font size="4">**Edge Representation Learning with Hypergraphs**</font>
 [[paper]](https://arxiv.org/pdf/2106.15845.pdf) \\
 Jaehyeong Jo\*, Jinheon Baek\*, Seul Lee\*, Dongki Kim, **Minki Kang**, Sung Ju Hwang
 (\*: equal contribution) \\
 <span style="color:darkred">**NeurIPS**</span> 2021
 
-- <font size="4">Learning to Perturb Word Embeddings for Out-of-distribution QA</font>
+- <font size="4">**Learning to Perturb Word Embeddings for Out-of-distribution QA**</font>
 [[paper]](https://aclanthology.org/2021.acl-long.434.pdf) \\
 Seanie Lee\*, **Minki Kang\***, Juho Lee, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**ACL**</span> 2021
 
-- <font size="4">Accurate Learning of Graph Representations with Graph Multiset Pooling</font>
+- <font size="4">**Accurate Learning of Graph Representations with Graph Multiset Pooling**</font>
 [[paper]](https://openreview.net/pdf?id=JHcqXGaqiGn) \\
 Jinheon Baek\*, **Minki Kang\***, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2021
 
-- <font size="4">Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation</font>
+- <font size="4">**Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation**</font>
 [[paper]](https://aclanthology.org/2020.emnlp-main.493.pdf) \\
 **Minki Kang\***, Moonsu Han\*, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**EMNLP**</span> 2020
 
-- <font size="4">Episodic Memory Reader: Learning What to Remember for Question Answering from Streaming Data</font>
+- <font size="4">**Episodic Memory Reader: Learning What to Remember for Question Answering from Streaming Data**</font>
 [[paper]](https://www.aclweb.org/anthology/P19-1434.pdf) \\
 Moonsu Han\*, **Minki Kang\***, Hyunwoo Jung, Sung Ju Hwang \\
 (\*: equal contribution) \\
