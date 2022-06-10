@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 <span style="color:darkred">**UPDATE**</span>
-During Mar. 2022 ~ Feb. 2025, I work as a research scientist at [AITRICS](https://www.aitrics.com/) as the alternative for mandatory military service, working under the supervision of Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/).
+During Mar. 2022 ~ Feb. 2025, I work as a research scientist at <a href="http://www.aitrics.com/" style="color: #7289da; text-decoration: none;">**AITRICS**</a> as the alternative for mandatory military service, working under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>.
 I plan to come back to academia after the end of the military service.
 
-I am a Ph.d. student at [Machine Learning and Artificial Intelligence (MLAI) lab](https://www.mlai-kaist.com/) in KAIST, under the supervision of Prof. [Sung Ju Hwang](http://www.sungjuhwang.com/).
+I am a Ph.d. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>.
 
 My research interest includes:
 - Low-resource Deep Learning (Domain Adaptation and Generalization)
@@ -20,15 +20,15 @@ My research interest includes:
 - Graph Representation Learning
 
 ## Education
-- **Korea Advanced Institute of Science and Technology** \\
+- <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
   <font size="3">Sep. 2021 - (Paused due to Military Service)</font>
   Ph.d. in Graduate School of Artificial Intelligence
 
-- **Korea Advanced Institute of Science and Technology** \\
+- <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
   <font size="3">Mar. 2020 - Aug. 2021</font>
   M.S. in Graduate School of Artificial Intelligence
 
-- **Korea Advanced Institute of Science and Technology** \\
+- <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
   <font size="3">Mar. 2015 - Feb. 2020</font>
   B.S. in Electrical Engineering and Computer Science
 
@@ -70,6 +70,10 @@ Moonsu Han\*, **Minki Kang\***, Hyunwoo Jung, Sung Ju Hwang \\
 <span style="color:darkred">**ACL**</span> 2019
 
 ## Experiences
+- **AITRICS** \\
+  <font size="3">Mar. 2022 - </font>
+  Researcher @ Warping.ai
+
 - **Technial University of Munich** \\
   <font size="3">Apr. 2019 - Aug. 2019</font>
   Exchange Student @ Electical and Computer Engineering Department
