@@ -33,6 +33,12 @@ My research interest includes:
   B.S. in Electrical Engineering and Computer Science
 
 ## Conference Publications
+- **Knowledge-Consistent Dialogue Generation with Knowledge Graphs**
+[paper] (To appear) \\
+**Minki Kang\***, Jin Myung Kwag\*, Jinheon Baek\*, Sung Ju Hwang
+(\*: equal contribution) \\
+Knowledge Retrieval and Language Models (**KRLM**) Workshop @ <span style="color:darkred">**ICML**</span> 2022
+
 - **KALA: Knowledge-Augmented Language Model Adaptation**
 [[paper]](https://openreview.net/pdf?id=qTNMTzkWhgT) \\
 **Minki Kang\***, Jinheon Baek\*, Sung Ju Hwang
