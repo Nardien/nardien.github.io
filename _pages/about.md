@@ -35,45 +35,40 @@ My research interest includes:
 ## Conference Publications
 - **Knowledge-Consistent Dialogue Generation with Knowledge Graphs** \\
 [paper] (To appear) \\
-**Minki Kang\***, Jin Myung Kwag\*, Jinheon Baek\*, Sung Ju Hwang
-(\*: equal contribution) \\
+**Minki Kang\***, Jin Myung Kwag\*, Jinheon Baek\*, Sung Ju Hwang \\
 Knowledge Retrieval and Language Models (**KRLM**) Workshop @ <span style="color:darkred">**ICML**</span> 2022
 
 - **KALA: Knowledge-Augmented Language Model Adaptation** \\
 [[paper]](https://openreview.net/pdf?id=qTNMTzkWhgT) \\
-**Minki Kang\***, Jinheon Baek\*, Sung Ju Hwang
-(\*: equal contribution) \\
+**Minki Kang\***, Jinheon Baek\*, Sung Ju Hwang \\
 <span style="color:darkred">**NAACL**</span> 2022
 
 - **Edge Representation Learning with Hypergraphs** \\
 [[paper]](https://arxiv.org/pdf/2106.15845.pdf) \\
-Jaehyeong Jo\*, Jinheon Baek\*, Seul Lee\*, Dongki Kim, **Minki Kang**, Sung Ju Hwang
-(\*: equal contribution) \\
+Jaehyeong Jo\*, Jinheon Baek\*, Seul Lee\*, Dongki Kim, **Minki Kang**, Sung Ju Hwang \\
 <span style="color:darkred">**NeurIPS**</span> 2021
 
 - **Learning to Perturb Word Embeddings for Out-of-distribution QA** \\
 [[paper]](https://aclanthology.org/2021.acl-long.434.pdf) \\
 Seanie Lee\*, **Minki Kang\***, Juho Lee, Sung Ju Hwang \\
-(\*: equal contribution) \\
 <span style="color:darkred">**ACL**</span> 2021
 
 - **Accurate Learning of Graph Representations with Graph Multiset Pooling** \\
 [[paper]](https://openreview.net/pdf?id=JHcqXGaqiGn) \\
 Jinheon Baek\*, **Minki Kang\***, Sung Ju Hwang \\
-(\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2021
 
 - **Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation** \\
 [[paper]](https://aclanthology.org/2020.emnlp-main.493.pdf) \\
 **Minki Kang\***, Moonsu Han\*, Sung Ju Hwang \\
-(\*: equal contribution) \\
 <span style="color:darkred">**EMNLP**</span> 2020
 
 - **Episodic Memory Reader: Learning What to Remember for Question Answering from Streaming Data** \\
 [[paper]](https://www.aclweb.org/anthology/P19-1434.pdf) \\
 Moonsu Han\*, **Minki Kang\***, Hyunwoo Jung, Sung Ju Hwang \\
-(\*: equal contribution) \\
 <span style="color:darkred">**ACL**</span> 2019
+
+(\*: equal contribution)
 
 ## Experiences
 - **AITRICS** \\
