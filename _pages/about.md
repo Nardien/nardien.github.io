@@ -34,7 +34,7 @@ My research interest includes:
 
 ## Conference Publications
 - **Knowledge-Consistent Dialogue Generation with Knowledge Graphs** \\
-[paper] (To appear) \\
+[[paper]](https://openreview.net/pdf?id=McHtKDi5h9) \\
 **Minki Kang\***, Jin Myung Kwag\*, Jinheon Baek\*, Sung Ju Hwang \\
 Knowledge Retrieval and Language Models (**KRLM**) Workshop @ <span style="color:darkred">**ICML**</span> 2022
 
