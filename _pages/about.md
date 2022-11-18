@@ -32,12 +32,19 @@ My research interest includes:
   <font size="3">Mar. 2015 - Feb. 2020</font>
   B.S. in Electrical Engineering and Computer Science
 
-## Conference Publications
+## Preprints / Workshop Publications
+- **Any-speaker Adaptive Text-To-Speech Synthesis with Diffusion Models** \\
+[[paper]](https://arxiv.org/abs/2211.09383) \\
+**Minki Kang\***, Dongchan Min\*, Sung Ju Hwang \\
+Preprint, Under review
+
 - **Knowledge-Consistent Dialogue Generation with Knowledge Graphs** \\
 [[paper]](https://openreview.net/pdf?id=McHtKDi5h9) \\
 **Minki Kang\***, Jin Myung Kwag\*, Jinheon Baek\*, Sung Ju Hwang \\
 Knowledge Retrieval and Language Models (**KRLM**) Workshop @ <span style="color:darkred">**ICML**</span> 2022
 
+
+## Conference Publications
 - **KALA: Knowledge-Augmented Language Model Adaptation** \\
 [[paper]](https://openreview.net/pdf?id=qTNMTzkWhgT) \\
 **Minki Kang\***, Jinheon Baek\*, Sung Ju Hwang \\
