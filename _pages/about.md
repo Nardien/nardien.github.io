@@ -38,6 +38,12 @@ My research interest includes:
 **Minki Kang\***, Dongchan Min\*, Sung Ju Hwang \\
 Preprint, Under review
 
+- **Self-Distillation for Further Pre-training of Transformers** \\
+[[paper]](https://arxiv.org/abs/2210.02871) \\
+Seanie Lee, **Minki Kang**, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi \\
+Preprint, Under review
+
+
 - **Knowledge-Consistent Dialogue Generation with Knowledge Graphs** \\
 [[paper]](https://openreview.net/pdf?id=McHtKDi5h9) \\
 **Minki Kang\***, Jin Myung Kwag\*, Jinheon Baek\*, Sung Ju Hwang \\
