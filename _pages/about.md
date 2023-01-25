@@ -38,12 +38,6 @@ My research interest includes:
 **Minki Kang\***, Dongchan Min\*, Sung Ju Hwang \\
 Preprint, Under review
 
-- **Self-Distillation for Further Pre-training of Transformers** \\
-[[paper]](https://arxiv.org/abs/2210.02871) \\
-Seanie Lee, **Minki Kang**, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi \\
-Preprint, Under review
-
-
 - **Knowledge-Consistent Dialogue Generation with Knowledge Graphs** \\
 [[paper]](https://openreview.net/pdf?id=McHtKDi5h9) \\
 **Minki Kang\***, Jin Myung Kwag\*, Jinheon Baek\*, Sung Ju Hwang \\
@@ -51,6 +45,16 @@ Knowledge Retrieval and Language Models (**KRLM**) Workshop @ <span style="color
 
 
 ## Conference Publications
+- **Sparse Token Transformer with Attention Back Tracking** \\
+[[paper]](https://openreview.net/pdf?id=VV0hSE8AxCw) \\
+Heejun Lee, **Minki Kang**, Youngwan Lee, Sung Ju Hwang \\
+<span style="color:darkred">**ICLR**</span> 2023
+
+- **Self-Distillation for Further Pre-training of Transformers** \\
+[[paper]](https://arxiv.org/abs/2210.02871) \\
+Seanie Lee, **Minki Kang**, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi \\
+<span style="color:darkred">**ICLR**</span> 2023
+
 - **KALA: Knowledge-Augmented Language Model Adaptation** \\
 [[paper]](https://openreview.net/pdf?id=qTNMTzkWhgT) \\
 **Minki Kang\***, Jinheon Baek\*, Sung Ju Hwang \\
