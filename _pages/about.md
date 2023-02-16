@@ -33,11 +33,6 @@ My research interest includes:
   B.S. in Electrical Engineering and Computer Science
 
 ## Preprints / Workshop Publications
-- **Any-speaker Adaptive Text-To-Speech Synthesis with Diffusion Models** \\
-[[paper]](https://arxiv.org/abs/2211.09383) \\
-**Minki Kang\***, Dongchan Min\*, Sung Ju Hwang \\
-Preprint, Under review
-
 - **Knowledge-Consistent Dialogue Generation with Knowledge Graphs** \\
 [[paper]](https://openreview.net/pdf?id=McHtKDi5h9) \\
 **Minki Kang\***, Jin Myung Kwag\*, Jinheon Baek\*, Sung Ju Hwang \\
@@ -45,6 +40,11 @@ Knowledge Retrieval and Language Models (**KRLM**) Workshop @ <span style="color
 
 
 ## Conference Publications
+- **Any-speaker Adaptive Text-To-Speech Synthesis with Diffusion Models** \\
+[[paper]](https://arxiv.org/abs/2211.09383) \\
+**Minki Kang\***, Dongchan Min\*, Sung Ju Hwang \\
+<span style="color:darkred">**ICASSP**</span> 2023
+
 - **Sparse Token Transformer with Attention Back Tracking** \\
 [[paper]](https://openreview.net/pdf?id=VV0hSE8AxCw) \\
 Heejun Lee, **Minki Kang**, Youngwan Lee, Sung Ju Hwang \\
