@@ -41,7 +41,7 @@ Knowledge Retrieval and Language Models (**KRLM**) Workshop @ <span style="color
 
 ## Conference Publications
 - **ZET-Speech: Zero-shot adaptive Emotion-controllable Text-to-Speech Synthesis with Diffusion and Style-based Models** \\
-[paper] \\
+[[paper]](https://arxiv.org/abs/2305.13831) \\
 **Minki Kang\***, Wooseok Han\*, Sung Ju Hwang, Eunho Yang \\
 <span style="color:darkred">**Interspeech**</span> 2023
 
