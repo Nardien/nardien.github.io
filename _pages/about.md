@@ -33,9 +33,15 @@ My research interest includes:
   B.S. in Electrical Engineering and Computer Science
 
 ## Preprints / Workshop Publications
+- **Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks** \\
+[[paper]](https://arxiv.org/abs/2305.18395)\\
+**Minki Kang**, Seanie Lee, Jinheon Baek, Sung Ju Hwang \\
+<span style="color:darkred">**NeurIPS**</span> 2023 under review
+
 - **Knowledge-Consistent Dialogue Generation with Knowledge Graphs** \\
-[[paper]](https://openreview.net/pdf?id=McHtKDi5h9) \\
-**Minki Kang\***, Jin Myung Kwag\*, Jinheon Baek\*, Sung Ju Hwang \\
+[[workshop]](https://openreview.net/pdf?id=McHtKDi5h9) [[paper]](https://arxiv.org/abs/2305.18846)\\
+**Minki Kang\***, Jin Myung Kwak\*, Jinheon Baek\*, Sung Ju Hwang \\
+<span style="color:darkred">**NeurIPS**</span> 2023 under review \\
 Knowledge Retrieval and Language Models (**KRLM**) Workshop @ <span style="color:darkred">**ICML**</span> 2022
 
 
