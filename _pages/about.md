@@ -38,7 +38,7 @@ My research interest includes:
 **Minki Kang**, Seanie Lee, Jinheon Baek, Sung Ju Hwang \\
 <span style="color:darkred">**NeurIPS**</span> 2023 under review
 
-- **Knowledge-Consistent Dialogue Generation with Knowledge Graphs** \\
+- **Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation** \\
 [[workshop]](https://openreview.net/pdf?id=McHtKDi5h9) [[paper]](https://arxiv.org/abs/2305.18846)\\
 **Minki Kang\***, Jin Myung Kwak\*, Jinheon Baek\*, Sung Ju Hwang \\
 <span style="color:darkred">**NeurIPS**</span> 2023 under review \\
