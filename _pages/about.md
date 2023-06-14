@@ -36,12 +36,12 @@ My research interest includes:
 - **Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks** \\
 [[paper]](https://arxiv.org/abs/2305.18395)\\
 **Minki Kang**, Seanie Lee, Jinheon Baek, Kenji Kawaguchi, Sung Ju Hwang \\
-<span style="color:darkred">**NeurIPS**</span> 2023 under review
+Under review
 
 - **Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation** \\
 [[workshop]](https://openreview.net/pdf?id=McHtKDi5h9) [[paper]](https://arxiv.org/abs/2305.18846)\\
 **Minki Kang\***, Jin Myung Kwak\*, Jinheon Baek\*, Sung Ju Hwang \\
-<span style="color:darkred">**NeurIPS**</span> 2023 under review \\
+Under review \\
 Knowledge Retrieval and Language Models (**KRLM**) Workshop @ <span style="color:darkred">**ICML**</span> 2022
 
 
