@@ -101,7 +101,7 @@ Moonsu Han\*, **Minki Kang\***, Hyunwoo Jung, Sung Ju Hwang \\
 ## Experiences
 - **AITRICS** \\
   <font size="3">Mar. 2022 - </font>
-  Researcher @ Warping.ai
+  Researcher @ Virtual Human Team
 
 - **Technial University of Munich** \\
   <font size="3">Apr. 2019 - Aug. 2019</font>
