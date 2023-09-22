@@ -33,11 +33,6 @@ My research interest includes:
   B.S. in Electrical Engineering and Computer Science
 
 ## Preprints / Workshop Publications
-- **Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks** \\
-[[paper]](https://arxiv.org/abs/2305.18395)\\
-**Minki Kang**, Seanie Lee, Jinheon Baek, Kenji Kawaguchi, Sung Ju Hwang \\
-Under review
-
 - **Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation** \\
 [[workshop]](https://openreview.net/pdf?id=McHtKDi5h9) [[paper]](https://arxiv.org/abs/2305.18846)\\
 **Minki Kang\***, Jin Myung Kwak\*, Jinheon Baek\*, Sung Ju Hwang \\
@@ -46,6 +41,11 @@ Knowledge Retrieval and Language Models (**KRLM**) Workshop @ <span style="color
 
 
 ## Conference Publications
+- **Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks** \\
+[[paper]](https://arxiv.org/abs/2305.18395)\\
+**Minki Kang**, Seanie Lee, Jinheon Baek, Kenji Kawaguchi, Sung Ju Hwang \\
+<span style="color:darkred">**NeurIPS**</span> 2023
+
 - **ZET-Speech: Zero-shot adaptive Emotion-controllable Text-to-Speech Synthesis with Diffusion and Style-based Models** \\
 [[paper]](https://arxiv.org/abs/2305.13831) \\
 **Minki Kang\***, Wooseok Han\*, Sung Ju Hwang, Eunho Yang \\
