@@ -40,7 +40,7 @@ Knowledge Retrieval and Language Models (**KRLM**) Workshop @ <span style="color
 
 
 ## Conference Publications
-- [C12] **Learning to Verify Knowledge-Augmented Language Models** \\
+- [C12] **Knowledge-Augmented Language Model Verification** \\
 [paper]\\
 Jinheon Baek, Soyeong Jeong, **Minki Kang**, Jong C. Park, Sung Ju Hwang \\
 <span style="color:darkred">**EMNLP**</span> 2023
