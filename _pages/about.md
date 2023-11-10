@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 <span style="color:darkred">**UPDATE**</span>
-During Mar. 2022 ~ Feb. 2025, I work as a research scientist at <a href="http://www.aitrics.com/" style="color: #7289da; text-decoration: none;">**AITRICS**</a> as the alternative for mandatory military service, working under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>.
+- From Oct. 2023, I moved to <a href="https://www.krafton.ai/en/" style="color: #7289da; text-decoration: none;">**KRAFTON**</a>.
+
+- During Mar. 2022 ~ Feb. 2025, I work as a research scientist at <a href="http://www.aitrics.com/" style="color: #7289da; text-decoration: none;">**AITRICS**</a> as the alternative for mandatory military service, working under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>.
 I plan to come back to academia after the end of the military service.
 
 I am a Ph.d. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>.
@@ -103,8 +105,12 @@ Moonsu Han\*, **Minki Kang\***, Hyunwoo Jung, Sung Ju Hwang \\
 (\*: equal contribution)
 
 ## Experiences
+- **KRAFTON** \\
+  <font size="3">Oct. 2023 - </font>
+  Data-Centric AI Team @ AI Research Center
+
 - **AITRICS** \\
-  <font size="3">Mar. 2022 - </font>
+  <font size="3">Mar. 2022 - Oct. 2023</font>
   Researcher @ Virtual Human Team
 
 - **Technial University of Munich** \\
