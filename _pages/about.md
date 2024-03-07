@@ -17,9 +17,11 @@ I plan to come back to academia after the end of the military service.
 I am a Ph.d. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>.
 
 My research interest includes:
-- Low-resource Deep Learning (Domain Adaptation and Generalization)
+- Efficient Deep Learning with Limited Data
+  - Domain Adaptation and Generalization
 - Natural Language Processing and Understanding
 - Graph Representation Learning
+- Text-to-Speech Synthesis
 
 ## Education
 - <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
@@ -107,7 +109,7 @@ Moonsu Han\*, **Minki Kang\***, Hyunwoo Jung, Sung Ju Hwang \\
 ## Experiences
 - **KRAFTON** \\
   <font size="3">Oct. 2023 - </font>
-  Data-Centric AI Team @ AI Research Center
+  Natural Language DL Team @ AI Research Center
 
 - **AITRICS** \\
   <font size="3">Mar. 2022 - Oct. 2023</font>
