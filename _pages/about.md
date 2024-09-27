@@ -45,7 +45,7 @@ Knowledge Retrieval and Language Models (**KRLM**) Workshop @ <span style="color
 
 ## Conference Publications
 - [C13] **Latent Paraphrasing: Perturbation on Layers Improves Knowledge Injection in Language Models** \\
-[[paper]](https://arxiv.org/abs/2305.18395)\\
+[paper]\\
 **Minki Kang**, Sung Ju Hwang, Gibbeum Lee, Jaewoong Cho \\
 <span style="color:darkred">**NeurIPS**</span> 2024
 
