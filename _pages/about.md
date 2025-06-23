@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span style="color:darkred">**UPDATE**</span>
-- As of Mar. 2025, I have returned to my Ph.D. program at KAIST after completing my alternative military service.
+- As of Mar. 2025, I have returned to my Ph.D. program at <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**KAIST**</a> after completing my alternative military service.
 
 - During Oct. 2023 ~ Mar. 2025, I work as a research scientist at <a href="https://www.krafton.ai/en/" style="color: #7289da; text-decoration: none;">**KRAFTON**</a>, as a continuation of the alternative of mandatory military service.
 
@@ -114,7 +114,7 @@ Moonsu Han\*, **Minki Kang\***, Hyunwoo Jung, Sung Ju Hwang \\
 
 ## Experiences
 - **KRAFTON** \\
-  <font size="3">Oct. 2023 - Mar. 2025 (expected)</font>
+  <font size="3">Oct. 2023 - Mar. 2025</font>
   Natural Language DL Team @ AI Research Center
 
 - **AITRICS** \\
