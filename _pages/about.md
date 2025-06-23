@@ -9,10 +9,11 @@ redirect_from:
 ---
 
 <span style="color:darkred">**UPDATE**</span>
+- As of Mar. 2025, I have returned to my Ph.D. program at KAIST after completing my alternative military service.
+
 - During Oct. 2023 ~ Mar. 2025, I work as a research scientist at <a href="https://www.krafton.ai/en/" style="color: #7289da; text-decoration: none;">**KRAFTON**</a>, as a continuation of the alternative of mandatory military service.
 
 - During Mar. 2022 ~ Oct. 2023, I worked as a research scientist at <a href="http://www.aitrics.com/" style="color: #7289da; text-decoration: none;">**AITRICS**</a> as the alternative for mandatory military service, working under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>.
-I plan to come back to academia after the end of the military service.
 
 I am a Ph.d. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>.
 
@@ -25,7 +26,7 @@ My research interest includes:
 
 ## Education
 - <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
-  <font size="3">Sep. 2021 - (On leave due to military service)</font>
+  <font size="3">Sep. 2021 - </font>
   Ph.d. in Graduate School of Artificial Intelligence
 
 - <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
