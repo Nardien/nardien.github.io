@@ -37,21 +37,48 @@ My research interest includes:
   <font size="3">Mar. 2015 - Feb. 2020</font>
   B.S. in Electrical Engineering and Computer Science
 
-## Preprints / Workshop Publications
-- [W1] **Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation** \\
-[[workshop]](https://openreview.net/pdf?id=McHtKDi5h9) [[paper]](https://arxiv.org/abs/2305.18846)\\
-**Minki Kang\***, Jin Myung Kwak\*, Jinheon Baek\*, Sung Ju Hwang \\
-Knowledge Retrieval and Language Models (**KRLM**) Workshop @ <span style="color:darkred">**ICML**</span> 2022
-
+## Preprints
+- [P2] **Distilling LLM Agent into Small Models with Retrieval and Code Tools** \\
+[[paper]](https://arxiv.org/abs/2505.17612)\\
+**Minki Kang**, Jongwon Jeong, Seanie Lee, Jaewoong Cho, Sung Ju Hwang \\
+  
+- [P1] **T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models** \\
+[[paper]](https://arxiv.org/abs/2504.04718)\\
+**Minki Kang\***, Jongwon Jeong\*, Jaewoong Cho \\
 
 ## Conference Publications
+- [C18] **SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models** \\
+[[paper]](https://arxiv.org/abs/2502.12464)\\
+Seanie Lee\*, Dong Bok Lee\*, Dominik Wagner, **Minki Kang**, Haebin Seong, Tobias Bocklet, Juho Lee, Sung Ju Hwang \\
+<span style="color:darkred">**ACL**</span> 2025 Findings
+
+- [C17] **HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models** \\
+[[paper]](https://openreview.net/forum?id=y3zswp3gek)\\
+Seanie Lee\*, Haebin Seong\*, Dong Bok Lee, **Minki Kang**, Xiaoyin Chen, Dominik Wagner, Yoshua Bengio, Juho Lee, Sung Ju Hwang \\
+<span style="color:darkred">**ICLR**</span> 2025
+
+- [C16] **Stable-TTS: Stable Speaker-Adaptive Text-to-Speech Synthesis via Prosody Prompting** \\
+[[paper]](https://arxiv.org/abs/2412.20155)\\
+Wooseok Han\*, **Minki Kang\***, Changhun Kim, Eunho Yang \\
+<span style="color:darkred">**ICASSP**</span> 2025
+
+- [C15] **Face-StyleSpeech: Enhancing Zero-shot Speech Synthesis from Face Images with Improved Face-to-Speech Mapping** \\
+[[paper]](https://arxiv.org/abs/2311.05844)\\
+**Minki Kang\***, Wooseok Han\*, Eunho Yang \\
+<span style="color:darkred">**ICASSP**</span> 2025
+
+- [C14] **Face-StyleSpeech: Enhancing Zero-shot Speech Synthesis from Face Images with Improved Face-to-Speech Mapping** \\
+[[paper]](https://arxiv.org/abs/2311.05844)\\
+**Minki Kang**, Wooseok Han, Eunho Yang \\
+<span style="color:darkred">**ICASSP**</span> 2025
+
 - [C13] **Latent Paraphrasing: Perturbation on Layers Improves Knowledge Injection in Language Models** \\
-[paper]\\
+[[paper]](https://arxiv.org/abs/2411.00686)\\
 **Minki Kang**, Sung Ju Hwang, Gibbeum Lee, Jaewoong Cho \\
 <span style="color:darkred">**NeurIPS**</span> 2024
 
 - [C12] **Knowledge-Augmented Language Model Verification** \\
-[paper]\\
+[[paper]](https://arxiv.org/abs/2310.12836)\\
 Jinheon Baek, Soyeong Jeong, **Minki Kang**, Jong C. Park, Sung Ju Hwang \\
 <span style="color:darkred">**EMNLP**</span> 2023
 
@@ -109,6 +136,12 @@ Jinheon Baek\*, **Minki Kang\***, Sung Ju Hwang \\
 [[paper]](https://www.aclweb.org/anthology/P19-1434.pdf) \\
 Moonsu Han\*, **Minki Kang\***, Hyunwoo Jung, Sung Ju Hwang \\
 <span style="color:darkred">**ACL**</span> 2019
+
+##  Workshop Publications
+- [W1] **Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation** \\
+[[workshop]](https://openreview.net/pdf?id=McHtKDi5h9) [[paper]](https://arxiv.org/abs/2305.18846)\\
+**Minki Kang\***, Jin Myung Kwak\*, Jinheon Baek\*, Sung Ju Hwang \\
+Knowledge Retrieval and Language Models (**KRLM**) Workshop @ <span style="color:darkred">**ICML**</span> 2022
 
 (\*: equal contribution)
 
