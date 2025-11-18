@@ -38,15 +38,20 @@ My research interest includes:
   B.S. in Electrical Engineering and Computer Science
 
 ## Preprints
-- [P2] **Distilling LLM Agent into Small Models with Retrieval and Code Tools** \\
-[[paper]](https://arxiv.org/abs/2505.17612)\\
-**Minki Kang**, Jongwon Jeong, Seanie Lee, Jaewoong Cho, Sung Ju Hwang \\
+- [P2] **ACON: Optimizing Context Compression for Long-horizon LLM Agents** \\
+[[paper]](https://arxiv.org/abs/2510.00615)\\
+**Minki Kang**, Wei-Ning Chen, Dongge Han, Huseyin A. Inan, Lukas Wutschitz, Yanzhi Chen, Robert Sim, Saravan Rajmohan
   
 - [P1] **T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models** \\
 [[paper]](https://arxiv.org/abs/2504.04718)\\
-**Minki Kang\***, Jongwon Jeong\*, Jaewoong Cho \\
+**Minki Kang\***, Jongwon Jeong\*, Jaewoong Cho
 
 ## Conference Publications
+- [C19] **Distilling LLM Agent into Small Models with Retrieval and Code Tools** \\
+[[paper]](https://arxiv.org/abs/2505.17612)\\
+**Minki Kang**, Jongwon Jeong, Seanie Lee, Jaewoong Cho, Sung Ju Hwang \\
+<span style="color:darkred">**NeurIPS**</span> 2025 Spotlight (Top 3%)
+
 - [C18] **SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models** \\
 [[paper]](https://arxiv.org/abs/2502.12464)\\
 Seanie Lee\*, Dong Bok Lee\*, Dominik Wagner, **Minki Kang**, Haebin Seong, Tobias Bocklet, Juho Lee, Sung Ju Hwang \\
