@@ -115,7 +115,7 @@ Seanie Lee, **Minki Kang**, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi \\
 - [C6] **KALA: Knowledge-Augmented Language Model Adaptation** \\
 [[paper]](https://openreview.net/pdf?id=qTNMTzkWhgT) \\
 **Minki Kang\***, Jinheon Baek\*, Sung Ju Hwang \\
-<span style="color:darkred">**NAACL**</span> 2022
+<span style="color:darkred">**NAACL**</span> 2022 (oral presentation)
 
 - [C5] **Edge Representation Learning with Hypergraphs** \\
 [[paper]](https://arxiv.org/pdf/2106.15845.pdf) \\
@@ -140,7 +140,7 @@ Jinheon Baek\*, **Minki Kang\***, Sung Ju Hwang \\
 - [C1] **Episodic Memory Reader: Learning What to Remember for Question Answering from Streaming Data** \\
 [[paper]](https://www.aclweb.org/anthology/P19-1434.pdf) \\
 Moonsu Han\*, **Minki Kang\***, Hyunwoo Jung, Sung Ju Hwang \\
-<span style="color:darkred">**ACL**</span> 2019
+<span style="color:darkred">**ACL**</span> 2019 (oral presentation)
 
 ##  Workshop Publications
 - [W1] **Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation** \\
