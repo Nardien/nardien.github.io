@@ -20,10 +20,10 @@ redirect_from:
 I am a Ph.d. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>.
 
 My current research interest includes:
-- Efficient and scalable LLM agents under limited compute and data
+- **Efficient and scalable LLM agents** under limited compute and data
   - Test-time scaling, self-evolving memory, and context optimization
-- Agent distillation and reinforcement learning for small language models
-- Agentic reasoning and tool-using language models (coding and web agents)
+- **Agent distillation and reinforcement learning** for small language models
+- Agentic reasoning and coding agents
 
 Previous research projects cover:
 - Domain Adaptation and Generalization
