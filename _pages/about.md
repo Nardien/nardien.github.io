@@ -23,7 +23,7 @@ My current research interest includes:
 - **Efficient and scalable LLM agents** under limited compute and data
   - Test-time scaling, self-evolving memory, and context optimization
 - **Agent distillation and reinforcement learning** for small language models
-- Agentic reasoning and coding agents
+- Agentic reasoning and agents for long-horizon productive tasks (e.g., software engineering)
 
 Previous research projects cover:
 - Domain Adaptation and Generalization
