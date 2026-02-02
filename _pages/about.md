@@ -9,7 +9,10 @@ redirect_from:
 ---
 
 <span style="color:darkred">**UPDATE**</span>
-- I recently completed a research internship at <a href="https://www.microsoft.com/en-us/research/group/ai-for-domains-aid/" style="color: #7289da; text-decoration: none;">**Microsoft**</a>, resulting in the paper: [ACON: Optimizing Context Compression for Long-horizon LLM Agents](https://arxiv.org/abs/2510.00615).
+
+- I have started a research internship at <a href="https://research.nvidia.com/labs/twn/" style="color: #7289da; text-decoration: none;">**NVIDIA**</a>.
+
+- I completed a research internship at <a href="https://www.microsoft.com/en-us/research/group/ai-for-domains-aid/" style="color: #7289da; text-decoration: none;">**Microsoft**</a>, resulting in the paper: [ACON: Optimizing Context Compression for Long-horizon LLM Agents](https://arxiv.org/abs/2510.00615).
 
 - As of Mar. 2025, I have returned to my Ph.D. program at <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**KAIST**</a> after completing my alternative military service.
 
@@ -44,7 +47,7 @@ Previous research projects cover:
   B.S. in Electrical Engineering and Computer Science
 
 ## Preprints
-- [P2] **ACON: Optimizing Context Compression for Long-horizon LLM Agents** \\
+- [P1] **ACON: Optimizing Context Compression for Long-horizon LLM Agents** \\
 [[paper]](https://arxiv.org/abs/2510.00615)\\
 **Minki Kang**, Wei-Ning Chen, Dongge Han, Huseyin A. Inan, Lukas Wutschitz, Yanzhi Chen, Robert Sim, Saravan Rajmohan
 
@@ -158,6 +161,10 @@ Knowledge Retrieval and Language Models (**KRLM**) Workshop @ <span style="color
 (\*: equal contribution)
 
 ## Experiences
+- **NVIDIA** \\
+  <font size="3">Feb. 2026 - </font>
+  Research Intern @ NVIDIA Research Taiwan
+
 - **Microsoft** \\
   <font size="3">Jun. 2025 - Sep. 2025</font>
   Research Intern @ Microsoft 365 Research Team
