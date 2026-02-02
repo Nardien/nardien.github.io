@@ -47,12 +47,13 @@ Previous research projects cover:
 - [P2] **ACON: Optimizing Context Compression for Long-horizon LLM Agents** \\
 [[paper]](https://arxiv.org/abs/2510.00615)\\
 **Minki Kang**, Wei-Ning Chen, Dongge Han, Huseyin A. Inan, Lukas Wutschitz, Yanzhi Chen, Robert Sim, Saravan Rajmohan
-  
-- [P1] **T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models** \\
-[[paper]](https://arxiv.org/abs/2504.04718)\\
-**Minki Kang\***, Jongwon Jeong\*, Jaewoong Cho
 
 ## Conference Publications
+- [C20] **T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models** \\
+[[paper]](https://arxiv.org/abs/2504.04718)\\
+**Minki Kang\***, Jongwon Jeong\*, Jaewoong Cho
+<span style="color:darkred">**ICLR**</span> 2026
+
 - [C19] **Distilling LLM Agent into Small Models with Retrieval and Code Tools** \\
 [[paper]](https://arxiv.org/abs/2505.17612)\\
 **Minki Kang**, Jongwon Jeong, Seanie Lee, Jaewoong Cho, Sung Ju Hwang \\
