@@ -54,7 +54,7 @@ Previous research projects cover:
 ## Conference Publications
 - [C20] **T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models** \\
 [[paper]](https://arxiv.org/abs/2504.04718)\\
-**Minki Kang\***, Jongwon Jeong\*, Jaewoong Cho
+**Minki Kang\***, Jongwon Jeong\*, Jaewoong Cho\\
 <span style="color:darkred">**ICLR**</span> 2026
 
 - [C19] **Distilling LLM Agent into Small Models with Retrieval and Code Tools** \\
