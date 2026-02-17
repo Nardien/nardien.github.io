@@ -52,34 +52,29 @@ Previous research projects cover:
 **Minki Kang**, Wei-Ning Chen, Dongge Han, Huseyin A. Inan, Lukas Wutschitz, Yanzhi Chen, Robert Sim, Saravan Rajmohan
 
 ## Conference Publications
-- [C20] **T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models** \\
+- [C19] **T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models** \\
 [[paper]](https://arxiv.org/abs/2504.04718)\\
 **Minki Kang\***, Jongwon Jeong\*, Jaewoong Cho\\
 <span style="color:darkred">**ICLR**</span> 2026
 
-- [C19] **Distilling LLM Agent into Small Models with Retrieval and Code Tools** \\
+- [C18] **Distilling LLM Agent into Small Models with Retrieval and Code Tools** \\
 [[paper]](https://arxiv.org/abs/2505.17612)\\
 **Minki Kang**, Jongwon Jeong, Seanie Lee, Jaewoong Cho, Sung Ju Hwang \\
 <span style="color:darkred">**NeurIPS**</span> 2025 Spotlight (Top 3%)
 
-- [C18] **SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models** \\
+- [C17] **SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models** \\
 [[paper]](https://arxiv.org/abs/2502.12464)\\
 Seanie Lee\*, Dong Bok Lee\*, Dominik Wagner, **Minki Kang**, Haebin Seong, Tobias Bocklet, Juho Lee, Sung Ju Hwang \\
 <span style="color:darkred">**ACL**</span> 2025 Findings
 
-- [C17] **HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models** \\
+- [C16] **HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models** \\
 [[paper]](https://openreview.net/forum?id=y3zswp3gek)\\
 Seanie Lee\*, Haebin Seong\*, Dong Bok Lee, **Minki Kang**, Xiaoyin Chen, Dominik Wagner, Yoshua Bengio, Juho Lee, Sung Ju Hwang \\
 <span style="color:darkred">**ICLR**</span> 2025
 
-- [C16] **Stable-TTS: Stable Speaker-Adaptive Text-to-Speech Synthesis via Prosody Prompting** \\
+- [C15] **Stable-TTS: Stable Speaker-Adaptive Text-to-Speech Synthesis via Prosody Prompting** \\
 [[paper]](https://arxiv.org/abs/2412.20155)\\
 Wooseok Han\*, **Minki Kang\***, Changhun Kim, Eunho Yang \\
-<span style="color:darkred">**ICASSP**</span> 2025
-
-- [C15] **Face-StyleSpeech: Enhancing Zero-shot Speech Synthesis from Face Images with Improved Face-to-Speech Mapping** \\
-[[paper]](https://arxiv.org/abs/2311.05844)\\
-**Minki Kang\***, Wooseok Han\*, Eunho Yang \\
 <span style="color:darkred">**ICASSP**</span> 2025
 
 - [C14] **Face-StyleSpeech: Enhancing Zero-shot Speech Synthesis from Face Images with Improved Face-to-Speech Mapping** \\
