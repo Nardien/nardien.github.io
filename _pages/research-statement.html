@@ -1,0 +1,272 @@
+---
+layout: default
+title: "Research Statement"
+permalink: /research-statement/
+excerpt: "Research statement by Minki Kang"
+body_class: statement-body
+---
+
+<main class="statement-page statement-deck" data-statement-deck aria-label="Research statement slide deck">
+  <div class="statement-deck__shell">
+    <div class="statement-stage" tabindex="0" aria-live="polite">
+      <section class="statement-slide is-active" data-slide-title="Title">
+        <div class="statement-slide__content statement-slide__content--title">
+          <p class="statement-kicker">Research Statement</p>
+          <h1 class="statement-title-break">
+            <span>Agentic Small</span>
+            <span>Language Model</span>
+          </h1>
+          <p class="statement-subtitle">Empowering small language models through distillation, tool integration, and context optimization.</p>
+          <div class="statement-mini-diagram statement-mini-diagram--title" aria-label="Agentic small language model concept">
+            <div class="statement-node statement-node--model">sLM</div>
+            <div class="statement-plus">+</div>
+            <div class="statement-node">Tools</div>
+            <div class="statement-arrow-line" aria-hidden="true"></div>
+            <div class="statement-node statement-node--agent">Agent</div>
+          </div>
+          <div class="statement-title-row">
+            <img src="/images/minki.jpg" alt="Minki Kang">
+            <div>
+              <strong>Minki Kang</strong>
+              <span>Ph.D. Student, KAIST AI</span>
+            </div>
+          </div>
+        </div>
+        <span class="statement-slide-number">1</span>
+      </section>
+
+      <section class="statement-slide" data-slide-title="Motivation">
+        <div class="statement-slide__content">
+          <h2 class="statement-heading-break statement-heading-break--motivation">
+            <span>Small models are</span>
+            <span>the deployment path</span>
+            <span>for everyday agents.</span>
+          </h2>
+          <p class="statement-subtitle">My industry experience repeatedly pointed to the same constraint: useful agents must often run close to users and products.</p>
+          <div class="statement-motivation-grid" aria-label="Deployment motivations for small language models">
+            <article>
+              <span>Cost</span>
+              <strong>Always-on interaction</strong>
+              <p>Agent workloads scale with tasks, users, and repeated tool calls.</p>
+            </article>
+            <article>
+              <span>Privacy</span>
+              <strong>Local personal context</strong>
+              <p>Private memories and user data should not always leave controlled environments.</p>
+            </article>
+            <article>
+              <span>Edge</span>
+              <strong>Low-latency products</strong>
+              <p>Games, medical AI, and copilots need responsive agents under real deployment limits.</p>
+            </article>
+          </div>
+        </div>
+        <span class="statement-slide-number">2</span>
+      </section>
+
+      <section class="statement-slide" data-slide-title="Bottleneck">
+        <div class="statement-slide__content statement-slide__content--memory">
+          <p class="statement-kicker">Why are small models weak?</p>
+          <h2>Small models are bottlenecked by parametric memory.</h2>
+          <p class="statement-subtitle">They are not simply unable to reason. Many reasoning tasks secretly require closed-book memory: facts, calculations, intermediate checks, and verification signals.</p>
+          <div class="statement-memory-grid" aria-label="Parametric memory bottleneck">
+            <article>
+              <span>Knowledge-intensive reasoning</span>
+              <strong>Facts must be recalled before reasoning can help.</strong>
+              <p>KARD shows that external knowledge reduces what a small model must memorize internally.</p>
+            </article>
+            <article>
+              <span>Self-verification</span>
+              <strong>Checking answers can require exact computation and fact checking.</strong>
+              <p>T1 shows that tools turn memorization-heavy verification into tool-use and interpretation.</p>
+            </article>
+          </div>
+          <p class="statement-callout">The goal is to convert memory-heavy problems into agentic problems.</p>
+        </div>
+        <span class="statement-slide-number">3</span>
+      </section>
+
+      <section class="statement-slide" data-slide-title="Thesis">
+        <div class="statement-slide__content statement-slide__content--thesis">
+          <h2>
+            <span>Small models need tools more,</span>
+            <span>but use tools worse.</span>
+          </h2>
+          <div class="statement-paradox" aria-label="Tool-use paradox for small models">
+            <div class="statement-paradox__row">
+              <span>Tool need</span>
+              <strong>sLM &gt; LLM</strong>
+              <p>Small models need external memory, computation, and verification to overcome limited capacity.</p>
+            </div>
+            <div class="statement-paradox__row">
+              <span>Agentic capability</span>
+              <strong>sLM &lt; LLM</strong>
+              <p>Without training, they are worse at retrieving, computing, checking, and recovering.</p>
+            </div>
+          </div>
+          <p class="statement-callout">My research trains small models to use agentic scaffolding reliably enough that external memory and computation compensate for limited parametric capacity.</p>
+          <div class="statement-columns statement-columns--compact">
+            <article>
+              <span>01</span>
+              <h3>Retrieve missing knowledge</h3>
+            </article>
+            <article>
+              <span>02</span>
+              <h3>Compute and verify exact steps</h3>
+            </article>
+            <article>
+              <span>03</span>
+              <h3>Distill reliable agentic behavior</h3>
+            </article>
+          </div>
+        </div>
+        <span class="statement-slide-number">4</span>
+      </section>
+
+      <section class="statement-slide" data-slide-title="Papers">
+        <div class="statement-slide__content statement-slide__content--papers">
+          <p class="statement-kicker">Research Program</p>
+          <h2>Building blocks for agentic small language models.</h2>
+          <div class="statement-paper-grid" aria-label="Related papers">
+            <article>
+              <span>External knowledge</span>
+              <h3>KARD: Knowledge-Augmented Reasoning</h3>
+              <p>Retrieve knowledge for rationale generation.</p>
+              <a href="https://arxiv.org/abs/2305.18395">NeurIPS 2023</a>
+            </article>
+            <article>
+              <span>Tool verification</span>
+              <h3>T1: Tool-integrated Self-verification</h3>
+              <p>Use tools for calculation and fact-checking.</p>
+              <a href="https://arxiv.org/abs/2504.04718">ICLR 2026</a>
+            </article>
+            <article>
+              <span>Agent distillation</span>
+              <h3>Distilling LLM Agent into Small Models</h3>
+              <p>Distill retrieval, code, observation, and recovery traces.</p>
+              <a href="https://arxiv.org/abs/2505.17612">NeurIPS 2025 Spotlight</a>
+            </article>
+            <article>
+              <span>Long-horizon context</span>
+              <h3>ACON: Optimizing Context Compression</h3>
+              <p>Compress context for long-horizon productive work.</p>
+              <a href="https://arxiv.org/abs/2510.00615">ICML 2026</a>
+            </article>
+          </div>
+        </div>
+        <span class="statement-slide-number">5</span>
+      </section>
+
+      <section class="statement-slide" data-slide-title="Direction">
+        <div class="statement-slide__content statement-slide__content--future">
+          <p class="statement-kicker">Future Vision</p>
+          <h2>Agentic scaffolding can turn small models into self-improving agents.</h2>
+          <div class="statement-loop" aria-label="Future work loop">
+            <article>
+              <span>01</span>
+              <strong>Master agentic scaffolding</strong>
+              <p>Use tools, memory, verification, and planning reliably.</p>
+            </article>
+            <article>
+              <span>02</span>
+              <strong>Do model-training research</strong>
+              <p>Design data, objectives, evaluations, and training recipes.</p>
+            </article>
+            <article>
+              <span>03</span>
+              <strong>Improve itself</strong>
+              <p>Turn research feedback into better agentic behavior.</p>
+            </article>
+          </div>
+          <p class="statement-takeaway">Takeaway: once an SLM masters agentic scaffolding, it can conduct research on model training and use that feedback to improve its own capabilities.</p>
+        </div>
+        <span class="statement-slide-number">6</span>
+      </section>
+    </div>
+
+    <button class="statement-arrow statement-arrow--prev" type="button" aria-label="Previous slide">‹</button>
+    <button class="statement-arrow statement-arrow--next" type="button" aria-label="Next slide">›</button>
+
+    <div class="statement-controls" aria-label="Slide controls">
+      <span class="statement-count">1 / 6</span>
+      <div class="statement-dots" aria-label="Go to slide"></div>
+    </div>
+  </div>
+
+  <script>
+    (function () {
+      var deck = document.querySelector('[data-statement-deck]');
+      if (!deck) return;
+
+      var slides = Array.prototype.slice.call(deck.querySelectorAll('.statement-slide'));
+      var stage = deck.querySelector('.statement-stage');
+      var count = deck.querySelector('.statement-count');
+      var dots = deck.querySelector('.statement-dots');
+      var prev = deck.querySelector('.statement-arrow--prev');
+      var next = deck.querySelector('.statement-arrow--next');
+      var index = 0;
+      var touchStartX = null;
+
+      slides.forEach(function (slide, slideIndex) {
+        var dot = document.createElement('button');
+        dot.type = 'button';
+        dot.setAttribute('aria-label', 'Go to slide ' + (slideIndex + 1));
+        dot.addEventListener('click', function () {
+          show(slideIndex, true);
+        });
+        dots.appendChild(dot);
+      });
+
+      var dotButtons = Array.prototype.slice.call(dots.querySelectorAll('button'));
+
+      function show(nextIndex, pushHash) {
+        index = Math.max(0, Math.min(slides.length - 1, nextIndex));
+        slides.forEach(function (slide, slideIndex) {
+          slide.classList.toggle('is-active', slideIndex === index);
+        });
+        dotButtons.forEach(function (dot, dotIndex) {
+          dot.classList.toggle('is-active', dotIndex === index);
+        });
+        count.textContent = (index + 1) + ' / ' + slides.length;
+        prev.disabled = index === 0;
+        next.disabled = index === slides.length - 1;
+        if (pushHash) {
+          history.replaceState(null, '', '#slide-' + (index + 1));
+        }
+      }
+
+      function move(delta) {
+        show(index + delta, true);
+      }
+
+      prev.addEventListener('click', function () { move(-1); });
+      next.addEventListener('click', function () { move(1); });
+
+      document.addEventListener('keydown', function (event) {
+        if (event.key === 'ArrowLeft') {
+          event.preventDefault();
+          move(-1);
+        }
+        if (event.key === 'ArrowRight' || event.key === ' ') {
+          event.preventDefault();
+          move(1);
+        }
+      });
+
+      stage.addEventListener('touchstart', function (event) {
+        touchStartX = event.changedTouches[0].clientX;
+      }, { passive: true });
+
+      stage.addEventListener('touchend', function (event) {
+        if (touchStartX === null) return;
+        var delta = event.changedTouches[0].clientX - touchStartX;
+        if (Math.abs(delta) > 45) move(delta > 0 ? -1 : 1);
+        touchStartX = null;
+      }, { passive: true });
+
+      var hashMatch = window.location.hash.match(/^#slide-(\d+)$/);
+      show(hashMatch ? Number(hashMatch[1]) - 1 : 0, false);
+      stage.focus({ preventScroll: true });
+    })();
+  </script>
+</main>
