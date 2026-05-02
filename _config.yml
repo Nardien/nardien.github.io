@@ -85,9 +85,10 @@ author:
   bio              : "Ph.d. Student at KAIST AI"
   location         : "Seoul, South Korea"
   employer         :
+  cv               : "/files/minki_kang_cv.pdf"
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=90G751oAAAAJ&hl=ko
-  email            : "zzx1133@kaist.ac.kr"
+  email            : "minkikang@kaist.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "minki-kang-5aa7281bb"
   orcid            : 
   pinterest        :
   soundcloud       :

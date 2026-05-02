@@ -1,181 +1,366 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Minki Kang"
+excerpt: "Minki Kang"
 author_profile: true
+hide_header: true
+profile_page: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<span style="color:darkred">**UPDATE**</span>
+<section class="profile-hero">
+  <p class="profile-eyebrow">Ph.D. Student at KAIST AI</p>
+  <h1>Minki Kang</h1>
+  <p class="profile-lede">I am a Ph.D. student at the <a href="https://www.mlai-kaist.com/">Machine Learning and Artificial Intelligence Lab</a> at KAIST, advised by <a href="http://www.sungjuhwang.com/">Prof. Sung Ju Hwang</a>.</p>
+</section>
 
-- I have started a research internship at <a href="https://research.nvidia.com/labs/twn/" style="color: #7289da; text-decoration: none;">**NVIDIA**</a>.
+<section class="profile-section profile-updates" id="updates">
+  <div class="section-heading">
+    <p>Recent</p>
+    <h2>Updates</h2>
+  </div>
+  <div class="timeline-list">
+    <article class="timeline-item">
+      <time>May 2026</time>
+      <p><a href="https://arxiv.org/abs/2510.00615">ACON</a> and SAGE were accepted to <strong>ICML 2026</strong>.</p>
+    </article>
+    <article class="timeline-item">
+      <time>Feb. 2026</time>
+      <p>Started a research internship at <a href="https://research.nvidia.com/labs/twn/">NVIDIA Research Taiwan</a>.</p>
+    </article>
+    <article class="timeline-item">
+      <time>Sep. 2025</time>
+      <p>Completed a research internship at <a href="https://www.microsoft.com/en-us/research/group/ai-for-domains-aid/">Microsoft</a>, resulting in <a href="https://arxiv.org/abs/2510.00615">ACON: Optimizing Context Compression for Long-horizon LLM Agents</a>.</p>
+    </article>
+    <article class="timeline-item">
+      <time>Mar. 2025</time>
+      <p>Returned to the Ph.D. program at <a href="https://www.kaist.ac.kr/en/">KAIST</a> after completing alternative military service.</p>
+    </article>
+  </div>
+</section>
 
-- I completed a research internship at <a href="https://www.microsoft.com/en-us/research/group/ai-for-domains-aid/" style="color: #7289da; text-decoration: none;">**Microsoft**</a>, resulting in the paper: [ACON: Optimizing Context Compression for Long-horizon LLM Agents](https://arxiv.org/abs/2510.00615).
+<section class="profile-section" id="research">
+  <div class="section-heading">
+    <p>Focus</p>
+    <h2>Research</h2>
+  </div>
+  <p class="section-intro">I develop agentic small language models that overcome limited parametric capacity through external memory, computation, verification, and distilled tool-use behavior.</p>
+  <p class="section-note">You can read my research statement here: <a href="/research-statement/">Research Statement</a>.</p>
+  <div class="research-list">
+    <article>
+      <h3>Tool-integrated reasoning and verification</h3>
+      <p>Turn memory-heavy reasoning into retrieval, computation, and checking.</p>
+      <div class="research-papers" aria-label="Representative first-author papers">
+        <a href="https://arxiv.org/abs/2504.04718"><span>ICLR 2026</span>T1</a>
+        <a href="https://arxiv.org/abs/2305.18395"><span>NeurIPS 2023</span>KARD</a>
+      </div>
+    </article>
+    <article>
+      <h3>Agent distillation and reinforcement learning</h3>
+      <p>Distilling agentic tool-use behavior into smaller models.</p>
+      <div class="research-papers" aria-label="Representative first-author papers">
+        <a href="https://arxiv.org/abs/2505.17612"><span>NeurIPS 2025 Spotlight</span>Agent Distillation</a>
+      </div>
+    </article>
+    <article>
+      <h3>Long-horizon agentic reasoning</h3>
+      <p>Planning, tool use, verification, and sustained context.</p>
+      <div class="research-papers" aria-label="Representative first-author papers">
+        <a href="https://arxiv.org/abs/2510.00615"><span>ICML 2026</span>ACON</a>
+      </div>
+    </article>
+  </div>
+  <p class="muted-note">Previous projects include domain adaptation and generalization, graph representation learning, and text-to-speech synthesis.</p>
+</section>
 
-- As of Mar. 2025, I have returned to my Ph.D. program at <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**KAIST**</a> after completing my alternative military service.
+<section class="profile-section" id="publications">
+  <div class="section-heading section-heading--publications">
+    <div>
+      <p>Selected work</p>
+      <h2>Publications</h2>
+    </div>
+    <div class="publication-stats" aria-label="Publication statistics">
+      <div>
+        <strong>21</strong>
+        <span>Conference Publications</span>
+      </div>
+      <div>
+        <strong>1,122</strong>
+        <span>Citations</span>
+      </div>
+      <p>As of Apr. 29, 2026</p>
+    </div>
+  </div>
 
-- During Oct. 2023 ~ Mar. 2025, I work as a research scientist at <a href="https://www.krafton.ai/en/" style="color: #7289da; text-decoration: none;">**KRAFTON**</a>, as a continuation of the alternative of mandatory military service.
+  <div class="publication-list">
+    <article class="publication-item">
+      <span class="publication-index">C21</span>
+      <div class="publication-body">
+        <h3>SAGE: Shaping Anchors for Guided Exploration in RLVR of LLMs</h3>
+        <p class="publication-authors">Chanuk Lee, <strong>Minki Kang</strong>, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>ICML 2026</span></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C20</span>
+      <div class="publication-body">
+        <h3>ACON: Optimizing Context Compression for Long-horizon LLM Agents</h3>
+        <p class="publication-authors"><strong>Minki Kang</strong>, Wei-Ning Chen, Dongge Han, Huseyin A. Inan, Lukas Wutschitz, Yanzhi Chen, Robert Sim, Saravan Rajmohan</p>
+        <p class="publication-meta"><span>ICML 2026</span><span>LLA Workshop at ICLR 2026</span><a href="https://arxiv.org/abs/2510.00615">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C19</span>
+      <div class="publication-body">
+        <h3>T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models</h3>
+        <p class="publication-authors"><strong>Minki Kang</strong>*, Jongwon Jeong*, Jaewoong Cho</p>
+        <p class="publication-meta"><span>ICLR 2026</span><a href="https://arxiv.org/abs/2504.04718">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C18</span>
+      <div class="publication-body">
+        <h3>Distilling LLM Agent into Small Models with Retrieval and Code Tools</h3>
+        <p class="publication-authors"><strong>Minki Kang</strong>, Jongwon Jeong, Seanie Lee, Jaewoong Cho, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>NeurIPS 2025 Spotlight</span><a href="https://arxiv.org/abs/2505.17612">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C17</span>
+      <div class="publication-body">
+        <h3>SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models</h3>
+        <p class="publication-authors">Seanie Lee*, Dong Bok Lee*, Dominik Wagner, <strong>Minki Kang</strong>, Haebin Seong, Tobias Bocklet, Juho Lee, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>ACL 2025 Findings</span><a href="https://arxiv.org/abs/2502.12464">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C16</span>
+      <div class="publication-body">
+        <h3>HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models</h3>
+        <p class="publication-authors">Seanie Lee*, Haebin Seong*, Dong Bok Lee, <strong>Minki Kang</strong>, Xiaoyin Chen, Dominik Wagner, Yoshua Bengio, Juho Lee, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>ICLR 2025</span><a href="https://openreview.net/forum?id=y3zswp3gek">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C15</span>
+      <div class="publication-body">
+        <h3>Stable-TTS: Stable Speaker-Adaptive Text-to-Speech Synthesis via Prosody Prompting</h3>
+        <p class="publication-authors">Wooseok Han*, <strong>Minki Kang</strong>*, Changhun Kim, Eunho Yang</p>
+        <p class="publication-meta"><span>ICASSP 2025</span><a href="https://arxiv.org/abs/2412.20155">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C14</span>
+      <div class="publication-body">
+        <h3>Face-StyleSpeech: Enhancing Zero-shot Speech Synthesis from Face Images with Improved Face-to-Speech Mapping</h3>
+        <p class="publication-authors"><strong>Minki Kang</strong>*, Wooseok Han*, Eunho Yang</p>
+        <p class="publication-meta"><span>ICASSP 2025</span><a href="https://arxiv.org/abs/2311.05844">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C13</span>
+      <div class="publication-body">
+        <h3>Latent Paraphrasing: Perturbation on Layers Improves Knowledge Injection in Large Language Models</h3>
+        <p class="publication-authors"><strong>Minki Kang</strong>, Sung Ju Hwang, Gibbeum Lee, Jaewoong Cho</p>
+        <p class="publication-meta"><span>NeurIPS 2024</span><a href="https://arxiv.org/abs/2411.00686">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C12</span>
+      <div class="publication-body">
+        <h3>Knowledge-Augmented Language Model Verification</h3>
+        <p class="publication-authors">Jinheon Baek, Soyeong Jeong, <strong>Minki Kang</strong>, Jong C. Park, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>EMNLP 2023</span><a href="https://arxiv.org/abs/2310.12836">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C11</span>
+      <div class="publication-body">
+        <h3>Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks</h3>
+        <p class="publication-authors"><strong>Minki Kang</strong>, Seanie Lee, Jinheon Baek, Kenji Kawaguchi, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>NeurIPS 2023</span><a href="https://arxiv.org/abs/2305.18395">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C10</span>
+      <div class="publication-body">
+        <h3>ZET-Speech: Zero-shot adaptive Emotion-controllable Text-to-Speech Synthesis with Diffusion and Style-based Models</h3>
+        <p class="publication-authors"><strong>Minki Kang</strong>*, Wooseok Han*, Sung Ju Hwang, Eunho Yang</p>
+        <p class="publication-meta"><span>Interspeech 2023</span><a href="https://arxiv.org/abs/2305.13831">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C9</span>
+      <div class="publication-body">
+        <h3>Grad-StyleSpeech: Any-speaker Adaptive Text-To-Speech Synthesis with Diffusion Models</h3>
+        <p class="publication-authors"><strong>Minki Kang</strong>*, Dongchan Min*, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>ICASSP 2023</span><a href="https://arxiv.org/abs/2211.09383">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C8</span>
+      <div class="publication-body">
+        <h3>Sparse Token Transformers with Attention Back Tracking</h3>
+        <p class="publication-authors">Heejun Lee, <strong>Minki Kang</strong>, Youngwan Lee, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>ICLR 2023</span><a href="https://openreview.net/pdf?id=VV0hSE8AxCw">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C7</span>
+      <div class="publication-body">
+        <h3>Self-Distillation for Further Pre-training of Transformers</h3>
+        <p class="publication-authors">Seanie Lee, <strong>Minki Kang</strong>, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi</p>
+        <p class="publication-meta"><span>ICLR 2023</span><a href="https://arxiv.org/abs/2210.02871">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C6</span>
+      <div class="publication-body">
+        <h3>KALA: Knowledge-Augmented Language Model Adaptation</h3>
+        <p class="publication-authors"><strong>Minki Kang</strong>*, Jinheon Baek*, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>NAACL 2022 Oral</span><a href="https://openreview.net/pdf?id=qTNMTzkWhgT">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C5</span>
+      <div class="publication-body">
+        <h3>Edge Representation Learning with Hypergraphs</h3>
+        <p class="publication-authors">Jaehyeong Jo*, Jinheon Baek*, Seul Lee*, Dongki Kim, <strong>Minki Kang</strong>, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>NeurIPS 2021</span><a href="https://arxiv.org/pdf/2106.15845.pdf">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C4</span>
+      <div class="publication-body">
+        <h3>Learning to Perturb Word Embeddings for Out-of-distribution QA</h3>
+        <p class="publication-authors">Seanie Lee*, <strong>Minki Kang</strong>*, Juho Lee, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>ACL 2021</span><a href="https://aclanthology.org/2021.acl-long.434.pdf">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C3</span>
+      <div class="publication-body">
+        <h3>Accurate Learning of Graph Representations with Graph Multiset Pooling</h3>
+        <p class="publication-authors">Jinheon Baek*, <strong>Minki Kang</strong>*, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>ICLR 2021</span><a href="https://openreview.net/pdf?id=JHcqXGaqiGn">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C2</span>
+      <div class="publication-body">
+        <h3>Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation</h3>
+        <p class="publication-authors"><strong>Minki Kang</strong>*, Moonsu Han*, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>EMNLP 2020</span><a href="https://aclanthology.org/2020.emnlp-main.493.pdf">Paper</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C1</span>
+      <div class="publication-body">
+        <h3>Episodic Memory Reader: Learning What to Remember for Question Answering from Streaming Data</h3>
+        <p class="publication-authors">Moonsu Han*, <strong>Minki Kang</strong>*, Hyunwoo Jung, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>ACL 2019 Oral</span><a href="https://www.aclweb.org/anthology/P19-1434.pdf">Paper</a></p>
+      </div>
+    </article>
 
-- During Mar. 2022 ~ Oct. 2023, I worked as a research scientist at <a href="http://www.aitrics.com/" style="color: #7289da; text-decoration: none;">**AITRICS**</a> as the alternative for mandatory military service, working under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>.
+    <h3 class="publication-subheading">Preprints</h3>
+    <article class="publication-item">
+      <span class="publication-index">P3</span>
+      <div class="publication-body">
+        <h3>Memory Transfer Learning: How Memories are Transferred Across Domains in Coding Agents</h3>
+        <p class="publication-authors">Kangsan Kim, <strong>Minki Kang</strong>, Taeil Kim, Yanlai Yang, Mengye Ren, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>Preprint</span></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">P2</span>
+      <div class="publication-body">
+        <h3>THINKSAFE: Self-Generated Safety Alignment for Reasoning Models</h3>
+        <p class="publication-authors">Seanie Lee*, Sangwoo Park*, Yumin Choi, Gyeongman Kim, <strong>Minki Kang</strong>, Jihun Yun, Dongmin Park, Jongho Park, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>Preprint</span></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">P1</span>
+      <div class="publication-body">
+        <h3>Rethinking Reward Models for Multi-Domain Test-Time Scaling</h3>
+        <p class="publication-authors">Dong Bok Lee*, Seanie Lee*, Sangwoo Park, <strong>Minki Kang</strong>, Jinheon Baek, Dongki Kim, Dominik Wagner, Jiongdao Jin, Heejun Lee, Tobias Bocklet, Jinyu Wang, Jingjing Fu, Sung Ju Hwang, Jiang Bian, Lei Song</p>
+        <p class="publication-meta"><span>Preprint</span></p>
+      </div>
+    </article>
 
-I am a Ph.d. student at <a href="https://www.mlai-kaist.com/" style="color: #7289da; text-decoration:none">**Machine Learning and Artificial Intelligence (MLAI) lab**</a> in KAIST, under the supervision of <a href="http://www.sungjuhwang.com/" style="color: #7289da; text-decoration: none;">**Prof. Sung Ju Hwang**</a>.
+    <h3 class="publication-subheading">Workshop Publications</h3>
+    <article class="publication-item">
+      <span class="publication-index">W1</span>
+      <div class="publication-body">
+        <h3>Knowledge-Consistent Dialogue Generation with Knowledge Graphs</h3>
+        <p class="publication-authors"><strong>Minki Kang</strong>*, Jin Myung Kwak*, Jinheon Baek*, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>KRLM Workshop at ICML 2022</span><a href="https://openreview.net/pdf?id=McHtKDi5h9">Workshop</a><a href="https://arxiv.org/abs/2305.18846">Paper</a></p>
+      </div>
+    </article>
+  </div>
+  <p class="muted-note">*: equal contribution.</p>
+</section>
 
-My current research interest includes:
-- **Efficient and scalable LLM agents** under limited compute and data
-  - Test-time scaling, self-evolving memory, and context optimization
-- **Agent distillation and reinforcement learning** for small language models
-- Agentic reasoning and agents for long-horizon productive tasks (e.g., software engineering)
+<section class="profile-section" id="experience">
+  <div class="section-heading">
+    <p>Work</p>
+    <h2>Experience</h2>
+  </div>
+  <div class="timeline-list">
+    <article class="timeline-item">
+      <time>Feb. 2026 -</time>
+      <p><strong>NVIDIA</strong><br>Research Intern at NVIDIA Research Taiwan</p>
+    </article>
+    <article class="timeline-item">
+      <time>Jun. 2025 - Sep. 2025</time>
+      <p><strong>Microsoft</strong><br>Research Intern at Microsoft 365 Research Team</p>
+    </article>
+    <article class="timeline-item">
+      <time>Mar. 2025 - Jun. 2025</time>
+      <p><strong>KRAFTON</strong><br>Part-time Researcher at Natural Language DL Team</p>
+    </article>
+    <article class="timeline-item">
+      <time>Oct. 2023 - Mar. 2025</time>
+      <p><strong>KRAFTON</strong><br>Applied Research Scientist at Natural Language DL Team</p>
+    </article>
+    <article class="timeline-item">
+      <time>Mar. 2022 - Oct. 2023</time>
+      <p><strong>AITRICS</strong><br>Applied Research Scientist at Virtual Human Team</p>
+    </article>
+    <article class="timeline-item">
+      <time>Mar. 2018 - Feb. 2020</time>
+      <p><strong>Machine Learning and Artificial Intelligence Lab, KAIST</strong><br>Research Intern advised by Prof. Sung Ju Hwang</p>
+    </article>
+    <article class="timeline-item">
+      <time>Jan. 2018 - Feb. 2018</time>
+      <p><strong>Kakao</strong><br>Engineering Intern at Context Department</p>
+    </article>
+  </div>
+</section>
 
-Previous research projects cover:
-- Domain Adaptation and Generalization
-- Graph Representation Learning
-- Text-to-Speech Synthesis
-
-## Education
-- <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
-  <font size="3">Sep. 2021 - </font>
-  Ph.d. in Graduate School of Artificial Intelligence
-
-- <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
-  <font size="3">Mar. 2020 - Aug. 2021</font>
-  M.S. in Graduate School of Artificial Intelligence
-
-- <a href="https://www.kaist.ac.kr/en/" style="color: #7289da; text-decoration: none;">**Korea Advanced Institute of Science and Technology (KAIST)**</a> \\
-  <font size="3">Mar. 2015 - Feb. 2020</font>
-  B.S. in Electrical Engineering and Computer Science
-
-## Preprints
-- [P1] **ACON: Optimizing Context Compression for Long-horizon LLM Agents** \\
-[[paper]](https://arxiv.org/abs/2510.00615)\\
-**Minki Kang**, Wei-Ning Chen, Dongge Han, Huseyin A. Inan, Lukas Wutschitz, Yanzhi Chen, Robert Sim, Saravan Rajmohan
-
-## Conference Publications
-- [C19] **T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models** \\
-[[paper]](https://arxiv.org/abs/2504.04718)\\
-**Minki Kang\***, Jongwon Jeong\*, Jaewoong Cho\\
-<span style="color:darkred">**ICLR**</span> 2026
-
-- [C18] **Distilling LLM Agent into Small Models with Retrieval and Code Tools** \\
-[[paper]](https://arxiv.org/abs/2505.17612)\\
-**Minki Kang**, Jongwon Jeong, Seanie Lee, Jaewoong Cho, Sung Ju Hwang \\
-<span style="color:darkred">**NeurIPS**</span> 2025 Spotlight (Top 3%)
-
-- [C17] **SafeRoute: Adaptive Model Selection for Efficient and Accurate Safety Guardrails in Large Language Models** \\
-[[paper]](https://arxiv.org/abs/2502.12464)\\
-Seanie Lee\*, Dong Bok Lee\*, Dominik Wagner, **Minki Kang**, Haebin Seong, Tobias Bocklet, Juho Lee, Sung Ju Hwang \\
-<span style="color:darkred">**ACL**</span> 2025 Findings
-
-- [C16] **HarmAug: Effective Data Augmentation for Knowledge Distillation of Safety Guard Models** \\
-[[paper]](https://openreview.net/forum?id=y3zswp3gek)\\
-Seanie Lee\*, Haebin Seong\*, Dong Bok Lee, **Minki Kang**, Xiaoyin Chen, Dominik Wagner, Yoshua Bengio, Juho Lee, Sung Ju Hwang \\
-<span style="color:darkred">**ICLR**</span> 2025
-
-- [C15] **Stable-TTS: Stable Speaker-Adaptive Text-to-Speech Synthesis via Prosody Prompting** \\
-[[paper]](https://arxiv.org/abs/2412.20155)\\
-Wooseok Han\*, **Minki Kang\***, Changhun Kim, Eunho Yang \\
-<span style="color:darkred">**ICASSP**</span> 2025
-
-- [C14] **Face-StyleSpeech: Enhancing Zero-shot Speech Synthesis from Face Images with Improved Face-to-Speech Mapping** \\
-[[paper]](https://arxiv.org/abs/2311.05844)\\
-**Minki Kang**, Wooseok Han, Eunho Yang \\
-<span style="color:darkred">**ICASSP**</span> 2025
-
-- [C13] **Latent Paraphrasing: Perturbation on Layers Improves Knowledge Injection in Language Models** \\
-[[paper]](https://arxiv.org/abs/2411.00686)\\
-**Minki Kang**, Sung Ju Hwang, Gibbeum Lee, Jaewoong Cho \\
-<span style="color:darkred">**NeurIPS**</span> 2024
-
-- [C12] **Knowledge-Augmented Language Model Verification** \\
-[[paper]](https://arxiv.org/abs/2310.12836)\\
-Jinheon Baek, Soyeong Jeong, **Minki Kang**, Jong C. Park, Sung Ju Hwang \\
-<span style="color:darkred">**EMNLP**</span> 2023
-
-- [C11] **Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks** \\
-[[paper]](https://arxiv.org/abs/2305.18395)\\
-**Minki Kang**, Seanie Lee, Jinheon Baek, Kenji Kawaguchi, Sung Ju Hwang \\
-<span style="color:darkred">**NeurIPS**</span> 2023
-
-- [C10] **ZET-Speech: Zero-shot adaptive Emotion-controllable Text-to-Speech Synthesis with Diffusion and Style-based Models** \\
-[[paper]](https://arxiv.org/abs/2305.13831) \\
-**Minki Kang\***, Wooseok Han\*, Sung Ju Hwang, Eunho Yang \\
-<span style="color:darkred">**Interspeech**</span> 2023
-
-- [C9] **Grad-StyleSpeech: Any-speaker Adaptive Text-To-Speech Synthesis with Diffusion Models** \\
-[[paper]](https://arxiv.org/abs/2211.09383) \\
-**Minki Kang\***, Dongchan Min\*, Sung Ju Hwang \\
-<span style="color:darkred">**ICASSP**</span> 2023
-
-- [C8] **Sparse Token Transformer with Attention Back Tracking** \\
-[[paper]](https://openreview.net/pdf?id=VV0hSE8AxCw) \\
-Heejun Lee, **Minki Kang**, Youngwan Lee, Sung Ju Hwang \\
-<span style="color:darkred">**ICLR**</span> 2023
-
-- [C7] **Self-Distillation for Further Pre-training of Transformers** \\
-[[paper]](https://arxiv.org/abs/2210.02871) \\
-Seanie Lee, **Minki Kang**, Juho Lee, Sung Ju Hwang, Kenji Kawaguchi \\
-<span style="color:darkred">**ICLR**</span> 2023
-
-- [C6] **KALA: Knowledge-Augmented Language Model Adaptation** \\
-[[paper]](https://openreview.net/pdf?id=qTNMTzkWhgT) \\
-**Minki Kang\***, Jinheon Baek\*, Sung Ju Hwang \\
-<span style="color:darkred">**NAACL**</span> 2022 (oral presentation)
-
-- [C5] **Edge Representation Learning with Hypergraphs** \\
-[[paper]](https://arxiv.org/pdf/2106.15845.pdf) \\
-Jaehyeong Jo\*, Jinheon Baek\*, Seul Lee\*, Dongki Kim, **Minki Kang**, Sung Ju Hwang \\
-<span style="color:darkred">**NeurIPS**</span> 2021
-
-- [C4] **Learning to Perturb Word Embeddings for Out-of-distribution QA** \\
-[[paper]](https://aclanthology.org/2021.acl-long.434.pdf) \\
-Seanie Lee\*, **Minki Kang\***, Juho Lee, Sung Ju Hwang \\
-<span style="color:darkred">**ACL**</span> 2021
-
-- [C3] **Accurate Learning of Graph Representations with Graph Multiset Pooling** \\
-[[paper]](https://openreview.net/pdf?id=JHcqXGaqiGn) \\
-Jinheon Baek\*, **Minki Kang\***, Sung Ju Hwang \\
-<span style="color:darkred">**ICLR**</span> 2021
-
-- [C2] **Neural Mask Generator: Learning to Generate Adaptive Word Maskings for Language Model Adaptation** \\
-[[paper]](https://aclanthology.org/2020.emnlp-main.493.pdf) \\
-**Minki Kang\***, Moonsu Han\*, Sung Ju Hwang \\
-<span style="color:darkred">**EMNLP**</span> 2020
-
-- [C1] **Episodic Memory Reader: Learning What to Remember for Question Answering from Streaming Data** \\
-[[paper]](https://www.aclweb.org/anthology/P19-1434.pdf) \\
-Moonsu Han\*, **Minki Kang\***, Hyunwoo Jung, Sung Ju Hwang \\
-<span style="color:darkred">**ACL**</span> 2019 (oral presentation)
-
-##  Workshop Publications
-- [W1] **Knowledge Graph-Augmented Language Models for Knowledge-Grounded Dialogue Generation** \\
-[[workshop]](https://openreview.net/pdf?id=McHtKDi5h9) [[paper]](https://arxiv.org/abs/2305.18846)\\
-**Minki Kang\***, Jin Myung Kwak\*, Jinheon Baek\*, Sung Ju Hwang \\
-Knowledge Retrieval and Language Models (**KRLM**) Workshop @ <span style="color:darkred">**ICML**</span> 2022
-
-(\*: equal contribution)
-
-## Experiences
-- **NVIDIA** \\
-  <font size="3">Feb. 2026 - </font>
-  Research Intern @ NVIDIA Research Taiwan
-
-- **Microsoft** \\
-  <font size="3">Jun. 2025 - Sep. 2025</font>
-  Research Intern @ Microsoft 365 Research Team
-
-- **KRAFTON** \\
-  <font size="3">Oct. 2023 - Jun. 2025</font>
-  Natural Language DL Team @ AI Research Center
-
-- **AITRICS** \\
-  <font size="3">Mar. 2022 - Oct. 2023</font>
-  Researcher @ Virtual Human Team
-
-- **Technial University of Munich** \\
-  <font size="3">Apr. 2019 - Aug. 2019</font>
-  Exchange Student @ Electical and Computer Engineering Department
-
-- **Kakao** \\
-  <font size="3">Jan. 2018 - Feb. 2018</font>
-  Internship @ Context Department
+<section class="profile-section">
+  <div class="section-heading">
+    <p>Training</p>
+    <h2>Education</h2>
+  </div>
+  <div class="timeline-list">
+    <article class="timeline-item">
+      <time>Sep. 2021 - Feb. 2027 expected</time>
+      <p><strong>KAIST</strong><br>Ph.D. in Kim Jaechul Graduate School of AI</p>
+    </article>
+    <article class="timeline-item">
+      <time>Mar. 2020 - Aug. 2021</time>
+      <p><strong>KAIST</strong><br>M.A. in Kim Jaechul Graduate School of AI</p>
+    </article>
+    <article class="timeline-item">
+      <time>Mar. 2019 - Aug. 2019</time>
+      <p><strong>Technical University of Munich</strong><br>Exchange Student in Electrical Engineering and Information Technology</p>
+    </article>
+    <article class="timeline-item">
+      <time>Mar. 2015 - Feb. 2020</time>
+      <p><strong>KAIST</strong><br>B.S. in Electrical Engineering and Computer Science</p>
+    </article>
+  </div>
+</section>
