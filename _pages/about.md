@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "Minki Kang"
-excerpt: "Minki Kang"
+seo_title: "Minki Kang - Homepage"
+excerpt: "Homepage of Minki Kang, Ph.D. student at KAIST AI."
 author_profile: true
 hide_header: true
 profile_page: true
