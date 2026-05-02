@@ -15,6 +15,7 @@ redirect_from:
   <p class="profile-eyebrow">Ph.D. Student at KAIST AI</p>
   <h1>Minki Kang</h1>
   <p class="profile-lede">I am a Ph.D. student at the <a href="https://www.mlai-kaist.com/">Machine Learning and Artificial Intelligence Lab</a> at KAIST, advised by <a href="http://www.sungjuhwang.com/">Prof. Sung Ju Hwang</a>.</p>
+  <p class="profile-lede">During my Ph.D., I completed research internships at <strong><a href="https://research.nvidia.com/labs/twn/">NVIDIA</a></strong> and <strong><a href="https://www.microsoft.com/en-us/research/group/ai-for-domains-aid/">Microsoft</a></strong>, and I completed three years of alternative mandatory military service as <strong><a href="https://elaw.klri.re.kr/eng_mobile/subjectViewer.do?hseq=2222&type=subject&key=korean&pCode=212&pName=Fostering%20Scientist%20and%20Engineer">Technical Research Personnel</a></strong>, working full-time as a <strong>Research Scientist</strong> at <strong><a href="https://aitrics.com/en/">AITRICS</a></strong> and <strong><a href="https://www.krafton.ai/en/">KRAFTON</a></strong>. More details are listed in <a href="#experience">Experience</a>.</p>
 </section>
 
 <section class="profile-section profile-updates" id="updates">
