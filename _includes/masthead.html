@@ -3,7 +3,7 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      {% if page.profile_page %}
+      {% if page.profile_page or page.static_nav %}
         <nav class="profile-site-nav" aria-label="Primary navigation">
           <a href="{{ base_path }}/">{{ site.title }}</a>
           {% for link in site.data.navigation.main %}
