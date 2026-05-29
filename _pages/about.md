@@ -116,7 +116,7 @@ redirect_from:
       <div class="publication-body">
         <h3>ACON: Optimizing Context Compression for Long-horizon LLM Agents</h3>
         <p class="publication-authors"><strong>Minki Kang</strong>, Wei-Ning Chen, Dongge Han, Huseyin A. Inan, Lukas Wutschitz, Yanzhi Chen, Robert Sim, Saravan Rajmohan</p>
-        <p class="publication-meta"><span>ICML 2026</span><span>LLA Workshop at ICLR 2026</span><a href="https://arxiv.org/abs/2510.00615">Paper</a></p>
+        <p class="publication-meta"><span class="publication-meta-full-line">ICML 2026</span><span>LLA Workshop at ICLR 2026</span><a href="https://arxiv.org/abs/2510.00615">Paper</a></p>
       </div>
     </article>
     <article class="publication-item">
