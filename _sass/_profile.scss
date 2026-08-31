@@ -361,6 +361,34 @@ a {
   line-height: 1.48;
 }
 
+.profile-research-focus {
+  color: var(--profile-accent-dark);
+  font-weight: 700;
+}
+
+.profile-hero .profile-research-link {
+  color: var(--profile-accent-dark);
+  font-weight: 400;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+.profile-hero .profile-job-market {
+  max-width: 760px;
+  margin: 1.4rem 0 0;
+  padding: 0.85rem 1rem;
+  color: var(--profile-accent-dark);
+  font-size: 1.02rem;
+  line-height: 1.5;
+  border-left: 3px solid var(--profile-accent);
+  border-radius: 0 8px 8px 0;
+  background: rgba(37, 99, 235, 0.07);
+
+  strong {
+    font-weight: 700;
+  }
+}
+
 .profile-stats,
 .publication-stats {
   display: flex;
