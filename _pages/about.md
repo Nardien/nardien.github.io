@@ -13,7 +13,7 @@ redirect_from:
 
 <section class="profile-hero">
   <h1>Minki Kang</h1>
-  <p class="profile-lede">I am a Ph.D. student at the <a href="https://www.mlai-kaist.com/">Machine Learning and Artificial Intelligence Lab</a> at KAIST, advised by <a href="http://www.sungjuhwang.com/">Prof. Sung Ju Hwang</a>.</p>
+  <p class="profile-lede">I am a Ph.D. student at the <a href="https://www.mlai-kaist.com/">Machine Learning and Artificial Intelligence Lab</a> at KAIST, advised by <a href="http://www.sungjuhwang.com/">Prof. Sung Ju Hwang</a>. I am currently a research intern at <strong><a href="https://www.meta.com/superintelligence/">Meta Superintelligence Labs</a></strong>.</p>
   <p class="profile-lede">During my Ph.D., I completed research internships at <strong><a href="https://research.nvidia.com/labs/twn/">NVIDIA</a></strong> and <strong><a href="https://www.microsoft.com/en-us/research/group/ai-for-domains-aid/">Microsoft</a></strong>, and I completed three years of alternative mandatory military service as <strong><a href="https://elaw.klri.re.kr/eng_mobile/subjectViewer.do?hseq=2222&type=subject&key=korean&pCode=212&pName=Fostering%20Scientist%20and%20Engineer">Technical Research Personnel</a></strong>, working full-time as a <strong>Research Scientist</strong> at <strong><a href="https://aitrics.com/en/">AITRICS</a></strong> and <strong><a href="https://www.krafton.ai/en/">KRAFTON</a></strong>. More details are listed in <a href="#experience">Experience</a>.</p>
   <p class="profile-lede">I am interested in <strong class="profile-research-focus">agentic post-training for language models</strong>: enabling them to overcome the limits of their parametric capacity by learning to interact with their environments. My research spans <a class="profile-research-link" href="https://arxiv.org/abs/2505.17612">distillation</a>, <a class="profile-research-link" href="https://arxiv.org/abs/2605.28774">reinforcement learning</a>, and <a class="profile-research-link" href="https://arxiv.org/abs/2510.00615">harness optimization</a>. You can read more in my <a href="/research-statement/">Research Statement</a>.</p>
   <p class="profile-job-market"><strong>I am on the job market in Fall 2026, seeking research positions starting in early 2027.</strong></p>
@@ -31,6 +31,14 @@ redirect_from:
     <h2>Updates</h2>
   </div>
   <div class="timeline-list">
+    <article class="timeline-item">
+      <time>Sep. 2026</time>
+      <p>My first-authored <a href="https://arxiv.org/abs/2605.28774">AXPO</a> from my NVIDIA Research internship and five co-authored papers were accepted to <strong>NeurIPS 2026</strong>. See the <a href="#publications">publication list</a>.</p>
+    </article>
+    <article class="timeline-item">
+      <time>Sep. 2026</time>
+      <p>Started a research internship at <a href="https://www.meta.com/superintelligence/">Meta Superintelligence Labs</a>.</p>
+    </article>
     <article class="timeline-item">
       <time>May 2026</time>
       <p>Released <a href="https://arxiv.org/abs/2605.28774">AXPO: Agent Explorative Policy Optimization for Multimodal Agentic Reasoning</a> from my internship at <a href="https://research.nvidia.com/labs/twn/">NVIDIA Research</a>.</p>
@@ -65,7 +73,7 @@ redirect_from:
       <div class="publication-body">
         <h3>AXPO: Agent Explorative Policy Optimization for Multimodal Agentic Reasoning</h3>
         <p class="publication-authors"><strong>Minki Kang</strong>, Shizhe Diao, Ryo Hachiuma, Sung Ju Hwang, Pavlo Molchanov, Yu-Chiang Frank Wang, Byung-Kwan Lee</p>
-        <p class="publication-meta"><span>Preprint</span><a href="https://arxiv.org/abs/2605.28774">[Preprint]</a></p>
+        <p class="publication-meta"><span>NeurIPS 2026</span><a href="https://arxiv.org/abs/2605.28774">[Paper]</a></p>
       </div>
     </article>
     <article class="publication-item">
@@ -118,7 +126,7 @@ redirect_from:
     </div>
     <div class="publication-stats" aria-label="Publication statistics">
       <div>
-        <strong>23</strong>
+        <strong>29</strong>
         <span>Conference &amp; Journal Publications</span>
       </div>
       <div>
@@ -130,6 +138,55 @@ redirect_from:
   </div>
 
   <div class="publication-list">
+    <h3 class="publication-subheading">Conference Publications</h3>
+    <article class="publication-item">
+      <span class="publication-index">C28</span>
+      <div class="publication-body">
+        <h3>AXPO: Agent Explorative Policy Optimization for Multimodal Agentic Reasoning</h3>
+        <p class="publication-authors"><strong>Minki Kang</strong>, Shizhe Diao, Ryo Hachiuma, Sung Ju Hwang, Pavlo Molchanov, Yu-Chiang Frank Wang, Byung-Kwan Lee</p>
+        <p class="publication-meta"><span>NeurIPS 2026</span><a href="https://arxiv.org/abs/2605.28774">[Paper]</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C27</span>
+      <div class="publication-body">
+        <h3>THINKSAFE: Self-Generated Safety Alignment for Reasoning Models</h3>
+        <p class="publication-authors">Seanie Lee*, Sangwoo Park*, Yumin Choi, Gyeongman Kim, <strong>Minki Kang</strong>, Jihun Yun, Dongmin Park, Jongho Park, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>NeurIPS 2026</span><a href="https://arxiv.org/abs/2601.23143">[Paper]</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C26</span>
+      <div class="publication-body">
+        <h3>Evolution Fine-Tuning: Learning to Discover Across 371 Optimization Tasks</h3>
+        <p class="publication-authors">Young-Jun Lee, Seungone Kim, <strong>Minki Kang</strong>, Alistair Cheong Liang Chuen, Zerui Chen, Seungho Han, Taehee Jung, Dongyeop Kang</p>
+        <p class="publication-meta"><span class="publication-meta-full-line">NeurIPS 2026</span><span>AID-Wild Workshop at CAIS 2026</span><a href="https://arxiv.org/abs/2606.29082">[Paper]</a><a href="https://open-galapagos.github.io/evolution_finetuning/">[Project]</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C25</span>
+      <div class="publication-body">
+        <h3>PREPING: Building Agent Memory without Tasks</h3>
+        <p class="publication-authors">Yumin Choi, Sangwoo Park, <strong>Minki Kang</strong>, Jinheon Baek, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>NeurIPS 2026</span><a href="https://arxiv.org/abs/2605.13880">[Paper]</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C24</span>
+      <div class="publication-body">
+        <h3>SKIM: Pruning Large Language Model Agents via Selective Knowledge Informed Masking</h3>
+        <p class="publication-authors">Moonseok Choi, Giung Nam, Jongwon Jeong, <strong>Minki Kang</strong>, Juho Lee</p>
+        <p class="publication-meta"><span>NeurIPS 2026</span></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">C23</span>
+      <div class="publication-body">
+        <h3>On the Geometry and Latent-Space Composition of Hypernetwork-Generated LoRAs</h3>
+        <p class="publication-authors">Yanlai Yang, <strong>Minki Kang</strong>, Divyam Madaan, Sung Ju Hwang, Mengye Ren</p>
+        <p class="publication-meta"><span>NeurIPS 2026</span></p>
+      </div>
+    </article>
     <article class="publication-item">
       <span class="publication-index">C22</span>
       <div class="publication-body">
@@ -319,7 +376,7 @@ redirect_from:
 
     <h3 class="publication-subheading">Preprints</h3>
     <article class="publication-item">
-      <span class="publication-index">P7</span>
+      <span class="publication-index">P4</span>
       <div class="publication-body">
         <h3>Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients</h3>
         <p class="publication-authors">Byung-Kwan Lee, Ximing Lu, Shizhe Diao, <strong>Minki Kang</strong>, Saurav Muralidharan, Karan Sapra, Andrew Tao, Pavlo Molchanov, Yejin Choi, Yu-Chiang Frank Wang, Ryo Hachiuma</p>
@@ -327,7 +384,7 @@ redirect_from:
       </div>
     </article>
     <article class="publication-item">
-      <span class="publication-index">P6</span>
+      <span class="publication-index">P3</span>
       <div class="publication-body">
         <h3>TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration</h3>
         <p class="publication-authors">Soyeong Jeong, Jinheon Baek, <strong>Minki Kang</strong>, Sung Ju Hwang</p>
@@ -335,7 +392,7 @@ redirect_from:
       </div>
     </article>
     <article class="publication-item">
-      <span class="publication-index">P5</span>
+      <span class="publication-index">P2</span>
       <div class="publication-body">
         <h3>OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources</h3>
         <p class="publication-authors">Jinheon Baek, Soyeong Jeong, Sangwoo Park, Woongyeong Yeo, <strong>Minki Kang</strong>, Patara Trirat, Heejun Lee, Sung Ju Hwang</p>
@@ -343,47 +400,15 @@ redirect_from:
       </div>
     </article>
     <article class="publication-item">
-      <span class="publication-index">P4</span>
-      <div class="publication-body">
-        <h3>AXPO: Agent Explorative Policy Optimization for Multimodal Agentic Reasoning</h3>
-        <p class="publication-authors"><strong>Minki Kang</strong>, Shizhe Diao, Ryo Hachiuma, Sung Ju Hwang, Pavlo Molchanov, Yu-Chiang Frank Wang, Byung-Kwan Lee</p>
-        <p class="publication-meta"><span>Preprint</span><a href="https://arxiv.org/abs/2605.28774">[Preprint]</a></p>
-      </div>
-    </article>
-    <article class="publication-item">
-      <span class="publication-index">P3</span>
+      <span class="publication-index">P1</span>
       <div class="publication-body">
         <h3>Nudging Beyond the Comfort Zone: Efficient Strategy-Guided Exploration for RLVR</h3>
         <p class="publication-authors">Chanuk Lee, Sangwoo Park, <strong>Minki Kang</strong>, Sung Ju Hwang</p>
         <p class="publication-meta"><span>Preprint</span><a href="https://arxiv.org/abs/2605.15726">[Preprint]</a></p>
       </div>
     </article>
-    <article class="publication-item">
-      <span class="publication-index">P2</span>
-      <div class="publication-body">
-        <h3>PREPING: Building Agent Memory without Tasks</h3>
-        <p class="publication-authors">Yumin Choi, Sangwoo Park, <strong>Minki Kang</strong>, Jinheon Baek, Sung Ju Hwang</p>
-        <p class="publication-meta"><span>Preprint</span><a href="https://arxiv.org/abs/2605.13880">[Preprint]</a></p>
-      </div>
-    </article>
-    <article class="publication-item">
-      <span class="publication-index">P1</span>
-      <div class="publication-body">
-        <h3>THINKSAFE: Self-Generated Safety Alignment for Reasoning Models</h3>
-        <p class="publication-authors">Seanie Lee*, Sangwoo Park*, Yumin Choi, Gyeongman Kim, <strong>Minki Kang</strong>, Jihun Yun, Dongmin Park, Jongho Park, Sung Ju Hwang</p>
-        <p class="publication-meta"><span>Preprint</span><a href="https://arxiv.org/abs/2601.23143">[Preprint]</a></p>
-      </div>
-    </article>
 
     <h3 class="publication-subheading">Workshop Publications</h3>
-    <article class="publication-item">
-      <span class="publication-index">W2</span>
-      <div class="publication-body">
-        <h3>Evolution Fine-Tuning: Learning to Discover Across 371 Optimization Tasks</h3>
-        <p class="publication-authors">Young-Jun Lee, Seungone Kim, <strong>Minki Kang</strong>, Alistair Cheong Liang Chuen, Zerui Chen, Seungho Han, Taehee Jung, Dongyeop Kang</p>
-        <p class="publication-meta"><span>AID-Wild Workshop at CAIS 2026</span><a href="https://arxiv.org/abs/2606.29082">[Paper]</a><a href="https://open-galapagos.github.io/evolution_finetuning/">[Project]</a></p>
-      </div>
-    </article>
     <article class="publication-item">
       <span class="publication-index">W1</span>
       <div class="publication-body">
@@ -402,6 +427,10 @@ redirect_from:
     <h2>Experience</h2>
   </div>
   <div class="timeline-list">
+    <article class="timeline-item">
+      <time>Sep. 2026 - Present</time>
+      <p><strong>Meta Superintelligence Labs</strong><br>Research Intern</p>
+    </article>
     <article class="timeline-item">
       <time>Feb. 2026 - Aug. 2026</time>
       <p><strong>NVIDIA</strong><br>Research Intern at NVIDIA Research Taiwan</p>
