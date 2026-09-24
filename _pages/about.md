@@ -142,7 +142,7 @@ redirect_from:
     <article class="publication-item">
       <span class="publication-index">C28</span>
       <div class="publication-body">
-        <h3>AXPO: Agent Explorative Policy Optimization for Multimodal Agentic Reasoning</h3>
+        <h3>Agent Explorative Policy Optimization for Multimodal Agentic Reasoning</h3>
         <p class="publication-authors"><strong>Minki Kang</strong>, Shizhe Diao, Ryo Hachiuma, Sung Ju Hwang, Pavlo Molchanov, Yu-Chiang Frank Wang, Byung-Kwan Lee</p>
         <p class="publication-meta"><span>NeurIPS 2026</span><a href="https://arxiv.org/abs/2605.28774">[Paper]</a></p>
       </div>
