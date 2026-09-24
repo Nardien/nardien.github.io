@@ -790,6 +790,11 @@ a {
   border-top: 1px solid var(--profile-line);
 }
 
+.publication-list > .publication-subheading:first-child {
+  margin-top: 0;
+  border-top: 0;
+}
+
 .publication-item,
 .timeline-item {
   display: grid;
