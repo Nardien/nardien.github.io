@@ -429,7 +429,7 @@ redirect_from:
   <div class="timeline-list">
     <article class="timeline-item">
       <time>Sep. 2026 - Present</time>
-      <p><strong>Meta Superintelligence Labs</strong><br>Research Intern</p>
+      <p><strong>Meta</strong><br>Research Intern at Meta Superintelligence Labs</p>
     </article>
     <article class="timeline-item">
       <time>Feb. 2026 - Aug. 2026</time>
