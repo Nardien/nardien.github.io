@@ -33,7 +33,7 @@ redirect_from:
   <div class="timeline-list">
     <article class="timeline-item">
       <time>Sep. 2026</time>
-      <p>My first-authored <a href="https://arxiv.org/abs/2605.28774">AXPO</a> from my NVIDIA Research internship and five co-authored papers were accepted to <strong>NeurIPS 2026</strong>. See the <a href="#publications">publication list</a>.</p>
+      <p>My first-authored <a href="https://arxiv.org/abs/2605.28774">AXPO</a> from my NVIDIA Research internship and <strong>five</strong> co-authored papers were accepted to <strong>NeurIPS 2026</strong>. See the <a href="#publications">publication list</a>.</p>
     </article>
     <article class="timeline-item">
       <time>Sep. 2026</time>
@@ -71,13 +71,21 @@ redirect_from:
     <article class="publication-item">
       <span class="publication-index">S1</span>
       <div class="publication-body">
+        <h3>Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents</h3>
+        <p class="publication-authors"><strong>Minki Kang</strong>, Ryo Hachiuma, Shaokun Zhang, Subhashree Radhakrishnan, Yonggan Fu, Jindong Jiang, Mingjie Liu, Ehsan Hosseini-Asl, Yi Dong, Yu-Chiang Frank Wang, Byung-Kwan Lee</p>
+        <p class="publication-meta"><span>Preprint</span><a href="https://arxiv.org/abs/2609.39982">[Preprint]</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">S2</span>
+      <div class="publication-body">
         <h3>Agent Explorative Policy Optimization for Multimodal Agentic Reasoning</h3>
         <p class="publication-authors"><strong>Minki Kang</strong>, Shizhe Diao, Ryo Hachiuma, Sung Ju Hwang, Pavlo Molchanov, Yu-Chiang Frank Wang, Byung-Kwan Lee</p>
         <p class="publication-meta"><span>NeurIPS 2026</span><a href="https://arxiv.org/abs/2605.28774">[Paper]</a></p>
       </div>
     </article>
     <article class="publication-item">
-      <span class="publication-index">S2</span>
+      <span class="publication-index">S3</span>
       <div class="publication-body">
         <h3>ACON: Optimizing Context Compression for Long-horizon LLM Agents</h3>
         <p class="publication-authors"><strong>Minki Kang</strong>, Wei-Ning Chen, Dongge Han, Huseyin A. Inan, Lukas Wutschitz, Yanzhi Chen, Robert Sim, Saravan Rajmohan</p>
@@ -85,7 +93,7 @@ redirect_from:
       </div>
     </article>
     <article class="publication-item">
-      <span class="publication-index">S3</span>
+      <span class="publication-index">S4</span>
       <div class="publication-body">
         <h3>T1: Tool-integrated Self-verification for Test-time Compute Scaling in Small Language Models</h3>
         <p class="publication-authors"><strong>Minki Kang</strong>*, Jongwon Jeong*, Jaewoong Cho</p>
@@ -93,7 +101,7 @@ redirect_from:
       </div>
     </article>
     <article class="publication-item">
-      <span class="publication-index">S4</span>
+      <span class="publication-index">S5</span>
       <div class="publication-body">
         <h3>Distilling LLM Agent into Small Models with Retrieval and Code Tools</h3>
         <p class="publication-authors"><strong>Minki Kang</strong>, Jongwon Jeong, Seanie Lee, Jaewoong Cho, Sung Ju Hwang</p>
@@ -101,7 +109,7 @@ redirect_from:
       </div>
     </article>
     <article class="publication-item">
-      <span class="publication-index">S5</span>
+      <span class="publication-index">S6</span>
       <div class="publication-body">
         <h3>Knowledge-Augmented Reasoning Distillation for Small Language Models in Knowledge-Intensive Tasks</h3>
         <p class="publication-authors"><strong>Minki Kang</strong>, Seanie Lee, Jinheon Baek, Kenji Kawaguchi, Sung Ju Hwang</p>
@@ -109,7 +117,7 @@ redirect_from:
       </div>
     </article>
     <article class="publication-item">
-      <span class="publication-index">S6</span>
+      <span class="publication-index">S7</span>
       <div class="publication-body">
         <h3>Latent Paraphrasing: Perturbation on Layers Improves Knowledge Injection in Large Language Models</h3>
         <p class="publication-authors"><strong>Minki Kang</strong>, Sung Ju Hwang, Gibbeum Lee, Jaewoong Cho</p>
@@ -375,6 +383,46 @@ redirect_from:
     </article>
 
     <h3 class="publication-subheading">Preprints</h3>
+    <article class="publication-item">
+      <span class="publication-index">P9</span>
+      <div class="publication-body">
+        <h3>EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery</h3>
+        <p class="publication-authors">Young-Jun Lee, Jinheon Baek, Soyeong Jeong, <strong>Minki Kang</strong>, Seungyeon Jwa, Jonghyun Choi, Seungho Han, Dongyeop Kang</p>
+        <p class="publication-meta"><span>Preprint</span><a href="https://arxiv.org/abs/2609.40340">[Preprint]</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">P8</span>
+      <div class="publication-body">
+        <h3>Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents</h3>
+        <p class="publication-authors"><strong>Minki Kang</strong>, Ryo Hachiuma, Shaokun Zhang, Subhashree Radhakrishnan, Yonggan Fu, Jindong Jiang, Mingjie Liu, Ehsan Hosseini-Asl, Yi Dong, Yu-Chiang Frank Wang, Byung-Kwan Lee</p>
+        <p class="publication-meta"><span>Preprint</span><a href="https://arxiv.org/abs/2609.39982">[Preprint]</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">P7</span>
+      <div class="publication-body">
+        <h3>Knowing When Thinking Is Not Enough: Teaching Small Reasoning Models to Reason Beyond Their Parametric Knowledge</h3>
+        <p class="publication-authors">Chanuk Lee, <strong>Minki Kang</strong>, Sangwoo Park, Woongyeong Yeo, Jinheon Baek, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>Preprint</span><a href="https://arxiv.org/abs/2609.34327">[Preprint]</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">P6</span>
+      <div class="publication-body">
+        <h3>Surprising Success, Repeated Failure: Entropy-Guided Credit Assignment for Exploration in LLM Reasoning</h3>
+        <p class="publication-authors">Woongyeong Yeo, <strong>Minki Kang</strong>, Chanuk Lee, Sangwoo Park, Jinheon Baek, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>Preprint</span><a href="https://arxiv.org/abs/2609.33781">[Preprint]</a></p>
+      </div>
+    </article>
+    <article class="publication-item">
+      <span class="publication-index">P5</span>
+      <div class="publication-body">
+        <h3>EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents</h3>
+        <p class="publication-authors">Sehee Kim, Yumin Choi, <strong>Minki Kang</strong>, Sung Ju Hwang</p>
+        <p class="publication-meta"><span>Preprint</span><a href="https://arxiv.org/abs/2609.17632">[Preprint]</a></p>
+      </div>
+    </article>
     <article class="publication-item">
       <span class="publication-index">P4</span>
       <div class="publication-body">
