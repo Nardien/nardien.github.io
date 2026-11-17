@@ -137,9 +137,9 @@ redirect_from:
         <span>Conference &amp; Journal Publications</span>
       </div>
       <div>
-        <strong>1,364</strong>
+        <strong>1,604</strong>
         <span>Citations</span>
-        <p>As of Aug. 31, 2026</p>
+        <p>As of Nov. 16, 2026</p>
       </div>
     </div>
   </div>
@@ -182,8 +182,8 @@ redirect_from:
       <span class="publication-index">C24</span>
       <div class="publication-body">
         <h3>SKIM: Pruning Large Language Model Agents via Selective Knowledge Informed Masking</h3>
-        <p class="publication-authors">Moonseok Choi, Giung Nam, Jongwon Jeong, <strong>Minki Kang</strong>, Juho Lee</p>
-        <p class="publication-meta"><span>NeurIPS 2026</span></p>
+        <p class="publication-authors">Moonseok Choi, Jongwon Jeong, <strong>Minki Kang</strong>, Giung Nam, Juho Lee</p>
+        <p class="publication-meta"><span>NeurIPS 2026</span><a href="https://arxiv.org/abs/2611.07558">[Paper]</a></p>
       </div>
     </article>
     <article class="publication-item">
@@ -426,7 +426,7 @@ redirect_from:
       <span class="publication-index">P4</span>
       <div class="publication-body">
         <h3>Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients</h3>
-        <p class="publication-authors">Byung-Kwan Lee, Ximing Lu, Shizhe Diao, <strong>Minki Kang</strong>, Saurav Muralidharan, Karan Sapra, Andrew Tao, Pavlo Molchanov, Yejin Choi, Yu-Chiang Frank Wang, Ryo Hachiuma</p>
+        <p class="publication-authors">Byung-Kwan Lee, Ximing Lu, Shizhe Diao, <strong>Minki Kang</strong>, Saurav Muralidharan, Karan Sapra, Andrew Tao, Yu-Chiang Frank Wang, Ryo Hachiuma</p>
         <p class="publication-meta"><span>Preprint</span><a href="https://arxiv.org/abs/2606.18216">[Preprint]</a></p>
       </div>
     </article>
